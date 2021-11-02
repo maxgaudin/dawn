@@ -2326,3 +2326,21 @@ details-disclosure > details {
   }
 }
 
+
+/***** CUSTOM *****/
+
+.footer-inner {
+  background-image: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%);
+}
+
+.footer-squiggle {
+  margin-bottom: -10px;
+}
+
+
+.footer a, .footer a.link, .footer h2 {
+  color: white;
+  text-decoration: none;
+}
+
+
