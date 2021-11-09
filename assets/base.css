@@ -2343,4 +2343,46 @@ details-disclosure > details {
   text-decoration: none;
 }
 
+#shopify-section-template--15213286490303__1635814473566c087b .image-with-text .gradient {
+  background: none;
+}
 
+#shopify-section-template--15213286490303__1635814473566c087b {
+  background: linear-gradient(
+  180deg, #89414D 8.97%, #D1403E 43.87%, #F07645 75.12%, #F088A7 100%);
+    mix-blend-mode: normal;
+}
+
+#shopify-section-template--15213286490303__1635814473566c087b .image-with-text img {
+  border-radius: 250px 250px 0 0;
+}
+
+#shopify-section-template--15213286490303__1635814473566c087b h2, #shopify-section-template--15213286490303__1635814473566c087b p {
+  color: white;
+} 
+
+#shopify-section-template--15213286490303__1635814473566c087b a.button {
+  background: #FBF6ED;
+  box-shadow: none;
+  color: #DD5A37;
+  opacity: 1;
+  padding: 1.2em 3em;
+}
+
+.multicolumn:not(.background-none) .multicolumn-card {
+  background: none !important;
+}
+
+#shopify-section-template--15213286490303__multi_column {
+  background: #005348;
+}
+
+#shopify-section-template--15213286490303__multi_column h2 {
+  color: white;
+  text-align: center;
+}
+
+@media screen and (min-width: 750px)
+.grid--2-col-tablet .multicolumn-list__item {
+  max-width: 25%;
+}
