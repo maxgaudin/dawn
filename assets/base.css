@@ -2421,13 +2421,18 @@ mix-blend-mode: normal;
   
 #shopify-section-template--15213254869183__163650295081817c82 h2 {
   color: #000;
-  font-family: italic;
+  font-style: italic;
 }
   
   
 #shopify-section-template--15213254869183__163650295081817c82 .button {
-  background: transparent;
-  color: #DD5A37;
-  border: 1px solid #DD5A37;
-  border-radius: 20px;
+  background: 0 0;
+    color: #dd5a37;
+    border: 1px solid #dd5a37;
+    border-radius: 30px;
+    box-shadow: none;
+    font-family: americana;
+    font-size: 1.2em;
+    opacity: 1;
+    padding: 18px 42px;
 }
