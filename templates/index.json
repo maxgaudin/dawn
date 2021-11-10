@@ -1,40 +1,38 @@
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
+    "16365027938cedb013": {
+      "type": "image-with-text",
       "blocks": {
-        "heading": {
+        "16365027938cedb013-0": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "medium"
+            "heading": "We help you get in a good mood."
           }
         },
-        "button": {
-          "type": "buttons",
+        "16365027938cedb013-1": {
+          "type": "text",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p>Farm to feel good, soil to self care CBD for you to feel better in your feelings.<\/p>"
+          }
+        },
+        "16365027938cedb013-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "heading",
-        "button"
+        "16365027938cedb013-0",
+        "16365027938cedb013-1",
+        "16365027938cedb013-2"
       ],
       "settings": {
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "flex-end",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
+        "image": "shopify:\/\/shop_images\/DSC01694_1.png",
+        "height": "adapt",
         "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "layout": "text_first"
       }
     },
     "featured_products": {
@@ -142,49 +140,13 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
-    },
-    "16365027938cedb013": {
-      "type": "image-with-text",
-      "blocks": {
-        "16365027938cedb013-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "We help you get in a good mood."
-          }
-        },
-        "16365027938cedb013-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Farm to feel good, soil to self care CBD for you to feel better in your feelings.<\/p>"
-          }
-        },
-        "16365027938cedb013-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop now",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16365027938cedb013-0",
-        "16365027938cedb013-1",
-        "16365027938cedb013-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/DSC01694_1.png",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "text_first"
-      }
     }
   },
   "order": [
-    "image_banner",
+    "16365027938cedb013",
     "featured_products",
     "collage",
     "video",
-    "multi_column",
-    "16365027938cedb013"
+    "multi_column"
   ]
 }
