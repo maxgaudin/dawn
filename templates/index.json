@@ -140,6 +140,34 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
+    },
+    "163650295081817c82": {
+      "type": "image-with-text",
+      "blocks": {
+        "163650295081817c82-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Take the Quiz below for a curated recommendation"
+          }
+        },
+        "163650295081817c82-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "I'd like to feel...",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163650295081817c82-0",
+        "163650295081817c82-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/SA_Illo_FeelingTest-01_1feels-door.png",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
@@ -147,6 +175,7 @@
     "featured_products",
     "collage",
     "video",
-    "multi_column"
+    "multi_column",
+    "163650295081817c82"
   ]
 }
