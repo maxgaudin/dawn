@@ -196,6 +196,51 @@
         "color_scheme": "background-1",
         "full_width": true
       }
+    },
+    "1636507262ec37f197": {
+      "type": "image-banner",
+      "blocks": {
+        "1636507262ec37f197-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "VANILLA CBD WHIPPED CREAM",
+            "heading_size": "medium"
+          }
+        },
+        "1636507262ec37f197-1": {
+          "type": "text",
+          "settings": {
+            "text": "A dosed (non-dairy) dessert to help you chill"
+          }
+        },
+        "1636507262ec37f197-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "A high vibrational CBD edible",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1636507262ec37f197-0",
+        "1636507262ec37f197-1",
+        "1636507262ec37f197-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Newsletter_Photo_Color_Burnrecipe-bg.png",
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -204,6 +249,7 @@
     "featured_products",
     "163650295081817c82",
     "1636504148a9dd3f5f",
-    "1636507255b8e6b169"
+    "1636507255b8e6b169",
+    "1636507262ec37f197"
   ]
 }
