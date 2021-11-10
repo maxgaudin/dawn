@@ -2440,3 +2440,8 @@ mix-blend-mode: normal;
 #shopify-section-template--15213254869183__multi_column {  
   background: #005348;
 }
+
+#shopify-section-template--15213254869183__multi_column h2 {
+  color: #fff;
+  text-align: center;
+}
