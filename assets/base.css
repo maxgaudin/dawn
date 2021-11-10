@@ -2405,3 +2405,9 @@ mix-blend-mode: normal;
 .image-with-text__heading, .image-with-text__text p {
 	color: #fff;
 }
+  
+#shopify-section-template--15213254869183__16365027938cedb013 .button {  
+	background: #FBF6ED;
+  	color: #DD5A37;
+  	box-shadow: none;
+}
