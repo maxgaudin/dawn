@@ -176,6 +176,26 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "1636507255b8e6b169": {
+      "type": "rich-text",
+      "blocks": {
+        "1636507255b8e6b169-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop the entire from the farm line",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1636507255b8e6b169-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -183,6 +203,7 @@
     "multi_column",
     "featured_products",
     "163650295081817c82",
-    "1636504148a9dd3f5f"
+    "1636504148a9dd3f5f",
+    "1636507255b8e6b169"
   ]
 }
