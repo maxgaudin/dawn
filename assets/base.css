@@ -2386,3 +2386,15 @@ details-disclosure > details {
 .grid--2-col-tablet .multicolumn-list__item {
   max-width: 25%;
 }
+  
+  /******* custom ******/
+  
+#shopify-section-template--15213254869183__16365027938cedb013 {
+	background: linear-gradient(180deg, #89414D 8.97%, #D1403E 43.87%, #F07645 75.12%, #F088A7 100%);
+mix-blend-mode: normal;  
+}
+  
+#shopify-section-template--15213254869183__16365027938cedb013 .gradient {
+	background: none;  
+}
+  
