@@ -2398,3 +2398,10 @@ mix-blend-mode: normal;
 	background: none;  
 }
   
+#shopify-section-template--15213254869183__16365027938cedb013 img {  
+  border-radius: 250px 250px 0 0;
+}
+
+.image-with-text__heading, .image-with-text__text p {
+	color: #fff;
+}
