@@ -2487,3 +2487,13 @@ mix-blend-mode: normal;
 #shopify-section-template--15213254475967__main .page-width {
 	padding: 0 5rem 0 0;  
 }
+  
+  /** homepage banner - save with a bundle **/
+  
+#Banner-template--15213254869183__1636504148a9dd3f5f .banner__content {
+	justify-content: right;
+}
+  
+#Banner-template--15213254869183__1636504148a9dd3f5f  .banner__box {
+	background: #FBF6ED;
+}
