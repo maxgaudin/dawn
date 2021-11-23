@@ -2496,4 +2496,16 @@ mix-blend-mode: normal;
   
 #Banner-template--15213254869183__1636504148a9dd3f5f  .banner__box {
 	background: #FBF6ED;
+  	text-align: left;
+}
+  
+#Banner-template--15213254869183__1636504148a9dd3f5f  .banner__box h2 {
+  font-family: Karla;
+  font-size: 1em;
+  text-transform: uppercase; 
+}
+  
+#Banner-template--15213254869183__1636504148a9dd3f5f  .banner__box .banner__text {
+	font-family: Americana;
+  	text-align: left;
 }
