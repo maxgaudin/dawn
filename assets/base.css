@@ -2533,7 +2533,7 @@ mix-blend-mode: normal;
   
 /*** header ***/ 
 
-.header__menu-item, .header__active-menu-item {
+.header__menu-item, .header__active-menu-item, .header__icon {
       color: white;
 }
   
