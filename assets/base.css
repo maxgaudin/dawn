@@ -2410,6 +2410,7 @@ mix-blend-mode: normal;
 	background: #FBF6ED;
   	color: #DD5A37;
   	box-shadow: none;
+  	opacity: 1;
 }
   
 
@@ -2523,4 +2524,9 @@ mix-blend-mode: normal;
     width: 100%;
     font-size: 1.1em;
     padding: 20px 0;
+}
+  
+  /*** header ***/ 
+	.header-menu-item a {
+      color: white;
 }
