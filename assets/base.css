@@ -2531,7 +2531,12 @@ mix-blend-mode: normal;
     padding: 20px 0;
 }
   
-  /*** header ***/ 
-	.header__menu-item {
-      color: black;
+/*** header ***/ 
+
+.header__menu-item {
+      color: white;
+}
+  
+header {
+	background: #000; 
 }
