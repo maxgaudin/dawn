@@ -2497,15 +2497,27 @@ mix-blend-mode: normal;
 #Banner-template--15213254869183__1636504148a9dd3f5f  .banner__box {
 	background: #FBF6ED;
   	text-align: left;
+  	padding: 0;
 }
   
 #Banner-template--15213254869183__1636504148a9dd3f5f  .banner__box h2 {
   font-family: Karla;
   font-size: 1em;
   text-transform: uppercase; 
+  padding-left: 40px;
 }
   
 #Banner-template--15213254869183__1636504148a9dd3f5f  .banner__box .banner__text {
 	font-family: Americana;
   	text-align: left;
+  	padding-left: 40px;
+}
+  
+#Banner-template--15213254869183__1636504148a9dd3f5f  .banner__box .button {
+	background: #DD5A37;
+    box-shadow: none;
+    opacity: 1;
+    width: 100%;
+    font-size: 1.1em;
+    padding: 20px 0;
 }
