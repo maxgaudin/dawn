@@ -2504,6 +2504,7 @@ mix-blend-mode: normal;
   font-family: Karla;
   font-size: 1em;
   text-transform: uppercase; 
+  padding-top: 40px;
   padding-left: 40px;
 }
   
@@ -2511,6 +2512,8 @@ mix-blend-mode: normal;
 	font-family: Americana;
   	text-align: left;
   	padding-left: 40px;
+  	color: #001D19;
+  	font-size: 1.6em;
 }
   
 #Banner-template--15213254869183__1636504148a9dd3f5f  .banner__box .button {
