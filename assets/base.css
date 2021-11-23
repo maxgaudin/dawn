@@ -2399,7 +2399,8 @@ mix-blend-mode: normal;
 }
   
 #shopify-section-template--15213254869183__16365027938cedb013 img {  
-  border-radius: 250px 250px 0 0;
+	border-radius: 400px 400px 0 0;
+    padding: 50px;
 }
 
 .image-with-text__heading, .image-with-text__text p {
