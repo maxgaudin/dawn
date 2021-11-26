@@ -2546,3 +2546,9 @@ header {
   #shopify-section-template--15213254869183__multi_column .title-wrapper-with-link, #shopify-section-template--15213254869183__multi_column .multicolumn:not(.background-secondary), #shopify-section-template--15213254869183__multi_column {
   margin: 0;
   }
+  
+  
+/** collection **/
+  .collection .media img {
+  border-radius: 60px 60px 0 0;
+  }
