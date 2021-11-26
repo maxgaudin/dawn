@@ -2552,3 +2552,12 @@ header {
   .collection .media img {
   border-radius: 60px 60px 0 0;
   }
+  
+  .collection .card-wrapper {
+  background: #fff;
+  border-radius: 60px 60px 0 0;
+  }
+  
+  .collection .card-information__wrapper {
+  padding: 5px 10px;
+  }
