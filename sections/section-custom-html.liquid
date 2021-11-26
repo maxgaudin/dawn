@@ -1,0 +1,39 @@
+<div id="huratips-custom-section">  
+  {%- if section.settings.title != blank -%}
+  <div class="huratips-custom-title"><h2>{{section.settings.title}}</h2></div>  
+  {%- endif -%}    
+  <div class="huratips-custom-code">{{section.settings.custom_html}}</div>
+  <p class="hura-credit">Powered by <a href="//www.huratips.com" target="_blank">HuraTips.Com</a></p>
+</div>
+<style> 
+  #huratips-custom-section{position:relative;}
+  .huratips-custom-title{text-align:center;}
+  .hura-credit{text-align:right;font-size:11px; margin-bottom:20px;font-style:italic;}
+</style>
+
+{% schema %}
+  {
+    "name": "HTML",
+    "settings": [
+      {
+        "type": "text",
+        "id": "title",
+        "label": "Title"
+      },
+      {
+        "type":"textarea",
+        "id": "custom_html",
+        "label": "HTML"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Custom HTML",
+        "category": "Hura",
+        "settings": {
+
+        }
+      }
+    ]
+  }
+{% endschema %}
