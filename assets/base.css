@@ -2543,6 +2543,6 @@ header {
   
 /*** as seen in section ***/  
   
-  #shopify-section-template--15213254869183__multi_column .title, #shopify-section-template--15213254869183__multi_column .multicolumn:not(.background-secondary), #shopify-section-template--15213254869183__multi_column {
+  #shopify-section-template--15213254869183__multi_column .title-wrapper-with-link, #shopify-section-template--15213254869183__multi_column .multicolumn:not(.background-secondary), #shopify-section-template--15213254869183__multi_column {
   margin: 0;
   }
