@@ -2566,3 +2566,8 @@ header {
   color: #005348;
 
   }
+  
+  .collection .card-information__wrapper h3 {
+  font-size: 1em;
+
+  }
