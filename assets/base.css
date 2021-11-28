@@ -2561,3 +2561,8 @@ header {
   .collection .card-information__wrapper {
   padding: 5px 10px;
   }
+  
+  .collection .price {
+  color: #005348;
+
+  }
