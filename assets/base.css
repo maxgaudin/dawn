@@ -2562,7 +2562,7 @@ header {
   padding: 5px 10px;
   }
   
-  .collection .price {
+  .collection .card-information__wrapper > .price {
   color: #005348;
 
   }
