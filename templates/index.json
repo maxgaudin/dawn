@@ -120,6 +120,12 @@
         "show_text_below": true
       }
     },
+    "1638396251f0ee1c29": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"grid\">\n  <h3 class=\"text-center\">Products<\/h3>\n  {% for product in collections.collection-name.products %}\n    <div class=\"grid__item medium-up--one-third\">\n        <a href=\"{{ product.url }}\"><img src=\"{{ product.featured_image | product_img_url: '345x' }}\" alt=\"{{ product.title | escape  }}\" \/><\/a>\n        <div class=\"h4 grid-view-item__title\"><span>{{ product.title }}<\/span><\/div>\n     <\/div>\n  {% endfor %}\n<\/div>"
+      }
+    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -208,6 +214,7 @@
     "163650295081817c82",
     "1638390727d35379ab",
     "1636504148a9dd3f5f",
+    "1638396251f0ee1c29",
     "featured_products",
     "1636507255b8e6b169",
     "1636507262ec37f197"
