@@ -2649,6 +2649,13 @@ header {
     color: #fff;
   }
   
-  #shopify-section-template--15213254869183__1638396251f0ee1c29 h1 {
+  #shopify-section-template--15213254869183__1638396251f0ee1c29 h1,  #shopify-section-template--15213254869183__1638396251f0ee1c29 h2 {
   	text-align: center;
+    color: #fff;
+  }
+  
+  #shopify-section-template--15213254869183__1638396251f0ee1c29 .head-shop {
+  
+  	border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
   }
