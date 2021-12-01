@@ -35,63 +35,10 @@
         "layout": "text_first"
       }
     },
-    "163790666691c65a55": {
-      "type": "section-custom-html",
+    "16379067572919fb5a": {
+      "type": "custom-liquid",
       "settings": {
-        "title": "",
-        "custom_html": "<div class=\"footer-squiggle\"><svg width=\"100%\" height=\"100%\" viewbox=\"0 0 1920 70\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n    <path d=\"M1920 0.370873C1842.72 -2.79076 1836 15.5015 1784.25 16.4048C1744.6 16.4048 1715.7 0.596703 1670 0.596703C1632.37 0.596703 1600.78 16.4048 1555.76 16.4048C1512.75 16.4048 1508.04 1.04836 1444.87 0.596703V0.370873C1367.59 -2.79076 1360.87 15.5015 1309.12 16.4048C1269.47 16.4048 1240.57 0.596703 1194.88 0.596703C1157.24 0.596703 1125.66 16.4048 1080.63 16.4048C1037.62 16.4048 1032.92 1.04836 969.745 0.596703V0.370873C892.461 -2.79076 885.74 15.5015 833.994 16.4048C794.344 16.4048 765.446 0.596703 719.748 0.596703C682.114 0.596703 650.529 16.4048 605.502 16.4048C562.492 16.4048 557.788 1.04836 494.617 0.596703V0.370873C417.333 -2.79076 411.285 15.2757 359.538 16.179C319.888 16.179 290.991 0.370873 245.292 0.370873C207.658 0.370873 176.073 16.179 131.047 16.179C89.3805 16.4048 65.1873 -4.37157 0 1.2742V69.9267C605.502 69.9267 1315.17 69.9267 1920 69.9267V0.370873Z\" fill=\"#005348\"><\/path>\n    <\/svg><\/div>"
-      }
-    },
-    "multi_column": {
-      "type": "multicolumn",
-      "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": ""
-          }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/the-zoe-report-logo-web.png",
-            "title": "",
-            "text": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/healthyish-white-web.png",
-            "title": "",
-            "text": ""
-          }
-        },
-        "afa05751-c258-4078-83f6-74e9ee5852bc": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/martha_stewart_living_logo_web.png",
-            "title": "",
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3",
-        "afa05751-c258-4078-83f6-74e9ee5852bc"
-      ],
-      "settings": {
-        "title": "As Seen In",
-        "image_width": "half",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false
+        "custom_liquid": "<div class=\"footer-squiggle\"><svg width=\"100%\" height=\"100%\" viewbox=\"0 0 1920 70\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n    <path d=\"M1920 0.370873C1842.72 -2.79076 1836 15.5015 1784.25 16.4048C1744.6 16.4048 1715.7 0.596703 1670 0.596703C1632.37 0.596703 1600.78 16.4048 1555.76 16.4048C1512.75 16.4048 1508.04 1.04836 1444.87 0.596703V0.370873C1367.59 -2.79076 1360.87 15.5015 1309.12 16.4048C1269.47 16.4048 1240.57 0.596703 1194.88 0.596703C1157.24 0.596703 1125.66 16.4048 1080.63 16.4048C1037.62 16.4048 1032.92 1.04836 969.745 0.596703V0.370873C892.461 -2.79076 885.74 15.5015 833.994 16.4048C794.344 16.4048 765.446 0.596703 719.748 0.596703C682.114 0.596703 650.529 16.4048 605.502 16.4048C562.492 16.4048 557.788 1.04836 494.617 0.596703V0.370873C417.333 -2.79076 411.285 15.2757 359.538 16.179C319.888 16.179 290.991 0.370873 245.292 0.370873C207.658 0.370873 176.073 16.179 131.047 16.179C89.3805 16.4048 65.1873 -4.37157 0 1.2742V69.9267C605.502 69.9267 1315.17 69.9267 1920 69.9267V0.370873Z\" fill=\"#005348\"><\/path>\n    <\/svg><\/div>\n<div class=\"flex green-block\">\n<h2 class=\"title\">As Seen In<\/h2>\n<ul class=\"multicolumn-list grid grid--1-col grid--2-col-tablet grid--4-col-desktop\">\n<li class=\"multicolumn-list__item grid__item\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/1954\/3487\/files\/Marie_Claire_Magazine_logo_copy.png?v=1638390693\" loading=\"lazy\">\n<\/li>\n<li class=\"multicolumn-list__item grid__item\">\n<img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0555\/1954\/3487\/files\/the-zoe-report-logo-web_550x.png?v=1638388581\">\n<\/li>\n<li class=\"multicolumn-list__item grid__item\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/1954\/3487\/files\/healthyish-white-web_550x.png?v=1638387950\">\n<\/li>\n<li class=\"multicolumn-list__item grid__item\">\n<img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0555\/1954\/3487\/files\/martha_stewart_living_logo_web_550x.png?v=1638387856\">\n<\/li>\n<\/ul>\n<\/div>\n<div class=\"squiggle-bottom\"><?xml version=\"1.0\" encoding=\"utf-8\"?>\n<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->\n<svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\n\t viewBox=\"0 0 5184 191.3\" style=\"enable-background:new 0 0 5184 191.3;\" xml:space=\"preserve\">\n<style type=\"text\/css\">\n\t.st0{fill:#005348;}\n<\/style>\n<path class=\"st0\" d=\"M0,187.8c208.7,8.5,226.8-40.9,366.5-43.3c107.1,0,185.1,42.7,308.5,42.7c101.6,0,186.9-42.7,308.4-42.7\n\tc116.1,0,128.8,41.5,299.4,42.7v0.6c208.7,8.5,226.8-40.9,366.5-43.3c107.1,0,185.1,42.7,308.4,42.7c101.6,0,186.9-42.7,308.5-42.7\n\tc116.1,0,128.8,41.5,299.4,42.7v0.6c208.7,8.5,226.8-40.9,366.5-43.3c107.1,0,185.1,42.7,308.5,42.7c101.6,0,186.9-42.7,308.5-42.7\n\tc116.1,0,128.8,41.5,299.4,42.7v0.6c208.7,8.5,225-40.2,364.7-42.7c107.1,0,185.1,42.7,308.5,42.7c101.6,0,186.9-42.7,308.5-42.7\n\tc112.5-0.6,177.8,55.5,353.8,40.2V0C3549.1,0,1633,0,0,0V187.8z\"\/>\n<\/svg>\n\n<\/div>"
       }
     },
     "163650295081817c82": {
@@ -247,23 +194,15 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
-    },
-    "16379067572919fb5a": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"footer-squiggle\"><svg width=\"100%\" height=\"100%\" viewbox=\"0 0 1920 70\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n    <path d=\"M1920 0.370873C1842.72 -2.79076 1836 15.5015 1784.25 16.4048C1744.6 16.4048 1715.7 0.596703 1670 0.596703C1632.37 0.596703 1600.78 16.4048 1555.76 16.4048C1512.75 16.4048 1508.04 1.04836 1444.87 0.596703V0.370873C1367.59 -2.79076 1360.87 15.5015 1309.12 16.4048C1269.47 16.4048 1240.57 0.596703 1194.88 0.596703C1157.24 0.596703 1125.66 16.4048 1080.63 16.4048C1037.62 16.4048 1032.92 1.04836 969.745 0.596703V0.370873C892.461 -2.79076 885.74 15.5015 833.994 16.4048C794.344 16.4048 765.446 0.596703 719.748 0.596703C682.114 0.596703 650.529 16.4048 605.502 16.4048C562.492 16.4048 557.788 1.04836 494.617 0.596703V0.370873C417.333 -2.79076 411.285 15.2757 359.538 16.179C319.888 16.179 290.991 0.370873 245.292 0.370873C207.658 0.370873 176.073 16.179 131.047 16.179C89.3805 16.4048 65.1873 -4.37157 0 1.2742V69.9267C605.502 69.9267 1315.17 69.9267 1920 69.9267V0.370873Z\" fill=\"#005348\"><\/path>\n    <\/svg><\/div>\n<div class=\"flex green-block\">\n<h2 class=\"title\">As Seen In<\/h2>\n<ul class=\"multicolumn-list grid grid--1-col grid--2-col-tablet grid--4-col-desktop\">\n<li class=\"multicolumn-list__item grid__item\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/1954\/3487\/files\/Marie_Claire_Magazine_logo_copy.png?v=1638390693\" loading=\"lazy\">\n<\/li>\n<li class=\"multicolumn-list__item grid__item\">\n<img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0555\/1954\/3487\/files\/the-zoe-report-logo-web_550x.png?v=1638388581\">\n<\/li>\n<li class=\"multicolumn-list__item grid__item\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/1954\/3487\/files\/healthyish-white-web_550x.png?v=1638387950\">\n<\/li>\n<li class=\"multicolumn-list__item grid__item\">\n<img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0555\/1954\/3487\/files\/martha_stewart_living_logo_web_550x.png?v=1638387856\">\n<\/li>\n<\/ul>\n<\/div>\n<div class=\"squiggle-bottom\"><?xml version=\"1.0\" encoding=\"utf-8\"?>\n<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->\n<svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\n\t viewBox=\"0 0 5184 191.3\" style=\"enable-background:new 0 0 5184 191.3;\" xml:space=\"preserve\">\n<style type=\"text\/css\">\n\t.st0{fill:#005348;}\n<\/style>\n<path class=\"st0\" d=\"M0,187.8c208.7,8.5,226.8-40.9,366.5-43.3c107.1,0,185.1,42.7,308.5,42.7c101.6,0,186.9-42.7,308.4-42.7\n\tc116.1,0,128.8,41.5,299.4,42.7v0.6c208.7,8.5,226.8-40.9,366.5-43.3c107.1,0,185.1,42.7,308.4,42.7c101.6,0,186.9-42.7,308.5-42.7\n\tc116.1,0,128.8,41.5,299.4,42.7v0.6c208.7,8.5,226.8-40.9,366.5-43.3c107.1,0,185.1,42.7,308.5,42.7c101.6,0,186.9-42.7,308.5-42.7\n\tc116.1,0,128.8,41.5,299.4,42.7v0.6c208.7,8.5,225-40.2,364.7-42.7c107.1,0,185.1,42.7,308.5,42.7c101.6,0,186.9-42.7,308.5-42.7\n\tc112.5-0.6,177.8,55.5,353.8,40.2V0C3549.1,0,1633,0,0,0V187.8z\"\/>\n<\/svg>\n\n<\/div>"
-      }
     }
   },
   "order": [
     "16365027938cedb013",
-    "163790666691c65a55",
-    "multi_column",
+    "16379067572919fb5a",
     "163650295081817c82",
     "1636504148a9dd3f5f",
     "featured_products",
     "1636507255b8e6b169",
-    "1636507262ec37f197",
-    "16379067572919fb5a"
+    "1636507262ec37f197"
   ]
 }
