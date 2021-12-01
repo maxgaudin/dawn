@@ -48,7 +48,6 @@
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Marie_Claire_Magazine_logo_59148799-75e6-484c-bfd0-5b9f7c6a07b1.png",
             "title": "",
             "text": ""
           }
@@ -252,13 +251,7 @@
     "16379067572919fb5a": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"flex\">\n<h2 class=\"title\">As Seen In<\/h2>\n<ul class=\"multicolumn-list grid grid--1-col grid--2-col-tablet grid--4-col-desktop\">\n<li class=\"multicolumn-list__item grid__item\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/1954\/3487\/files\/Marie_Claire_Magazine_logo.png?v=1635818487\" loading=\"lazy\">\n<\/li>\n<li class=\"multicolumn-list__item grid__item\">\n<img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0555\/1954\/3487\/files\/the-zoe-report-logo-web_550x.png?v=1638388581\">\n<\/li>\n<li class=\"multicolumn-list__item grid__item\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/1954\/3487\/files\/healthyish-white-web_550x.png?v=1638387950\">\n<\/li>\n<li class=\"multicolumn-list__item grid__item\">\n<img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0555\/1954\/3487\/files\/martha_stewart_living_logo_web_550x.png?v=1638387856\">\n<\/li>\n<\/ul>\n<\/div>"
-      }
-    },
-    "1638387233852308a9": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": ""
+        "custom_liquid": "<div class=\"footer-squiggle\"><svg width=\"100%\" height=\"100%\" viewbox=\"0 0 1920 70\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n    <path d=\"M1920 0.370873C1842.72 -2.79076 1836 15.5015 1784.25 16.4048C1744.6 16.4048 1715.7 0.596703 1670 0.596703C1632.37 0.596703 1600.78 16.4048 1555.76 16.4048C1512.75 16.4048 1508.04 1.04836 1444.87 0.596703V0.370873C1367.59 -2.79076 1360.87 15.5015 1309.12 16.4048C1269.47 16.4048 1240.57 0.596703 1194.88 0.596703C1157.24 0.596703 1125.66 16.4048 1080.63 16.4048C1037.62 16.4048 1032.92 1.04836 969.745 0.596703V0.370873C892.461 -2.79076 885.74 15.5015 833.994 16.4048C794.344 16.4048 765.446 0.596703 719.748 0.596703C682.114 0.596703 650.529 16.4048 605.502 16.4048C562.492 16.4048 557.788 1.04836 494.617 0.596703V0.370873C417.333 -2.79076 411.285 15.2757 359.538 16.179C319.888 16.179 290.991 0.370873 245.292 0.370873C207.658 0.370873 176.073 16.179 131.047 16.179C89.3805 16.4048 65.1873 -4.37157 0 1.2742V69.9267C605.502 69.9267 1315.17 69.9267 1920 69.9267V0.370873Z\" fill=\"#005348\"><\/path>\n    <\/svg><\/div>\n<div class=\"flex green-block\">\n<h2 class=\"title\">As Seen In<\/h2>\n<ul class=\"multicolumn-list grid grid--1-col grid--2-col-tablet grid--4-col-desktop\">\n<li class=\"multicolumn-list__item grid__item\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/1954\/3487\/files\/Marie_Claire_Magazine_logo_copy.png?v=1638390693\" loading=\"lazy\">\n<\/li>\n<li class=\"multicolumn-list__item grid__item\">\n<img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0555\/1954\/3487\/files\/the-zoe-report-logo-web_550x.png?v=1638388581\">\n<\/li>\n<li class=\"multicolumn-list__item grid__item\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/1954\/3487\/files\/healthyish-white-web_550x.png?v=1638387950\">\n<\/li>\n<li class=\"multicolumn-list__item grid__item\">\n<img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0555\/1954\/3487\/files\/martha_stewart_living_logo_web_550x.png?v=1638387856\">\n<\/li>\n<\/ul>\n<\/div>"
       }
     }
   },
@@ -271,7 +264,6 @@
     "featured_products",
     "1636507255b8e6b169",
     "1636507262ec37f197",
-    "16379067572919fb5a",
-    "1638387233852308a9"
+    "16379067572919fb5a"
   ]
 }
