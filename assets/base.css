@@ -2658,6 +2658,7 @@ header {
   
   	border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
+    padding-left: 10px;
   }
   
   #shopify-section-template--15213254869183__1638396251f0ee1c29 .head-left {
@@ -2667,7 +2668,16 @@ header {
   
   #shopify-section-template--15213254869183__1638396251f0ee1c29 h2 {
   	color: #fff;
+    font-size: 2.8rem;
+    margin-bottom: 0;
+    margin-top: 1.3rem;
   }
+  
+   #shopify-section-template--15213254869183__1638396251f0ee1c29 p {
+  	margin-top: 0.5rem;
+    font-size: 1.3rem;
+  }
+  
   
   #shopify-section-template--15213254869183__1638396251f0ee1c29 .head-right a {
   	color: #fff;
