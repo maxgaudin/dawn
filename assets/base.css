@@ -2523,6 +2523,7 @@ mix-blend-mode: normal;
   #shopify-section-template--15213254869183__1638390727d35379ab {
   margin-top: 0;
   z-index: 100;
+  position: relative;
   }
   
 /*** product page ***/
