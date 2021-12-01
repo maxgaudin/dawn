@@ -2466,6 +2466,12 @@ mix-blend-mode: normal;
     text-transform: uppercase;
   }
   
+  #shopify-section-template--15213254869183__16379067572919fb5a .grid__item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  }
+  
   #shopify-section-template--15213254869183__16379067572919fb5a img {
   max-width: 200px;
   margin: 0 auto;
