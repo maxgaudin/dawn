@@ -2409,7 +2409,8 @@ mix-blend-mode: normal;
 #shopify-section-template--15213254869183__16365027938cedb013 img {  
 	border-radius: 400px 400px 0 0;
     padding: 50px;
-  	z-index: 15000;
+  	z-index: 2;
+  position: absolute;
 }
 
 .image-with-text__heading, .image-with-text__text p {
@@ -2470,6 +2471,7 @@ mix-blend-mode: normal;
   margin-top: -70px;
   padding-bottom: 30px;
   z-index: 20000;
+    position: relative;
   }
   
   #shopify-section-template--15213254869183__16379067572919fb5a .title {
