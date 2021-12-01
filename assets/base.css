@@ -2570,6 +2570,8 @@ mix-blend-mode: normal;
 	background: #FBF6ED;
   	text-align: left;
   	padding: 0;
+    max-width: 50rem;
+    margin-right: 12rem;
 }
   
 #Banner-template--15213254869183__1636504148a9dd3f5f  .banner__box h2 {
