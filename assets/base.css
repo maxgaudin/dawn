@@ -2449,7 +2449,7 @@ mix-blend-mode: normal;
   
 #shopify-section-template--15213254869183__16379067572919fb5a .green-block {  
   background: #005348;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
 }
 
   
@@ -2463,7 +2463,8 @@ mix-blend-mode: normal;
   #shopify-section-template--15213254869183__16379067572919fb5a .title {
   text-align: center;
   color: #fff;
-    text-transform: uppercase;
+  padding: 5px 0 0 0;
+    margin-bottom: 20px;
   margin-top: 0;
   }
   
@@ -2474,7 +2475,7 @@ mix-blend-mode: normal;
   }
   
   #shopify-section-template--15213254869183__16379067572919fb5a img {
-  max-width: 200px;
+  max-width: 160px;
   margin: 0 auto;
     display: block;
   
