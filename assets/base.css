@@ -2444,10 +2444,29 @@ mix-blend-mode: normal;
     padding: 18px 42px;
 }
   
+  
+  /*** As seen in section ***/
+  
 #shopify-section-template--15213254869183__multi_column {  
   background: #005348;
+  padding-bottom: 30px;
 }
 
+  
+  /** new as seen in **/
+  
+  #shopify-section-template--15213254869183__16379067572919fb5a {
+  background: #005348;
+  padding-bottom: 30px;
+  }
+  
+  #shopify-section-template--15213254869183__16379067572919fb5a img {
+  max-width: 200px;
+  margin: 0 auto;
+    display: block;
+  
+  }
+  
 #shopify-section-template--15213254869183__multi_column h2 {
   color: #fff;
   text-align: center;
