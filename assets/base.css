@@ -2709,7 +2709,10 @@ header {
   /** squiggle **/
   
   #shopify-section-template--15213254869183__16384059088c95eb32 {
-   margin: 0;
+   margin: -0.7em 0 -0.7em 0;
+    padding: 0;
+    z-index: 500;
+    position: relative;
   }
   
  
