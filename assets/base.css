@@ -2773,7 +2773,7 @@ header {
   }
   
   .card--outline:not(.card--soft) {
-  	border: none;
+  	border: none !important;
   }
   
   /* homepage tabs */
