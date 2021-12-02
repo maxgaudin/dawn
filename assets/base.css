@@ -2768,6 +2768,10 @@ header {
     text-decoration: none;
   }
   
+  .card--outline:not(.card--soft) {
+  	border: none;
+  }
+  
   /* homepage tabs */
   
 	* {box-sizing: border-box}
