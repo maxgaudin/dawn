@@ -2719,6 +2719,7 @@ header {
     font-style: italic;
     color: white;
   background: transparent;
+  padding: 2em 0 0 2em;
 }
 
 /* Change background color of buttons on hover */
