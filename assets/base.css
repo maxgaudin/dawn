@@ -2746,4 +2746,9 @@ header {
   	width: 50px;
   }
 
+  .inner-content span {
+    margin-top: 14px;
+    position: absolute;
+    padding-left: 10px;
+  }
 
