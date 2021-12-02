@@ -2867,19 +2867,19 @@ header {
   /** Smart tabs customization on product page **/
   
   .smart-tabs-content-block, .smart-tabs-content-block p, .smart-tabs-content-block h1, .smart-tabs-content-block h2, .smart-tabs-content-block h3, .smart-tabs-content-block h4, .smart-tabs-content-block h5 {
-  	background: transparent;
+  	background: transparent !important;
     color: #fff !important;
   }
   
   .smart-tabs-navigation-li-active {
-  	background: transparent;
-    text-decoration: underline;
-    border: none;
+  	background: transparent !important;
+    text-decoration: underline !important;
+    border: none !important; 
   }
   
   .smart-tabs-navigation-li {
-  	background: transparent;
-    border: none;
+  	background: transparent !important;
+    border: none !important;
   }
   
   
