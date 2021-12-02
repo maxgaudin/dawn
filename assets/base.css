@@ -2683,6 +2683,7 @@ header {
    #shopify-section-template--15213254869183__1638396251f0ee1c29 p {
   	margin-top: 0.5rem;
     font-size: 1.3rem;
+     color: #001D19;
   }
   
   
@@ -2718,6 +2719,10 @@ header {
   
   .learn a {
   	color: #DD5A37;
+  }
+  
+  .bottom {
+  	padding: 1em 1.3em;
   }
   
   /* homepage tabs */
