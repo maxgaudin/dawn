@@ -2751,6 +2751,15 @@ header {
     justify-content: space-between;
   }
   
+  .links {
+  	text-align: center;
+  }
+  
+  .links a {
+  	color: #fff;
+    text-decoration: none;
+  }
+  
   /* homepage tabs */
   
 	* {box-sizing: border-box}
