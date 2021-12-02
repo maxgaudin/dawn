@@ -2663,6 +2663,10 @@ header {
     height: 100px;
   }
   
+  .head-shop p {
+  	color: #fff;
+  }
+  
   #shopify-section-template--15213254869183__1638396251f0ee1c29 .head-left {
   	color: #fff;
     float: left;
