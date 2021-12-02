@@ -2698,15 +2698,14 @@ header {
 .tab {
   float: left;
   border: 1px solid #ccc;
-  background-color: #f1f1f1;
   width: 30%;
   height: 300px;
+  background: linear-gradient(180deg, #EFD5C7 0%, #A0A9F9 35.76%, #7AB0EF 67.01%, #7BD0D8 100%);
 }
 
 /* Style the buttons that are used to open the tab content */
 .tab button {
   display: block;
-  background-color: inherit;
   color: black;
   padding: 22px 16px;
   width: 100%;
