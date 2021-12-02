@@ -2661,7 +2661,7 @@ header {
     padding-left: 10px;
     display: block;
     height: 100px;
-    color: #001d19;
+    color: #fff;
     margin-bottom: 3em;
   }
   
@@ -2689,7 +2689,7 @@ header {
    #shopify-section-template--15213254869183__1638396251f0ee1c29 p {
   	margin-top: 0.5rem;
     font-size: 1.3rem;
-     color: #fff;
+     color: #001d19;
   }
   
   
