@@ -2661,7 +2661,7 @@ header {
     padding-left: 10px;
     display: block;
     height: 100px;
-    color: #fff;
+    color: #001d19;
     margin-bottom: 3em;
   }
   
@@ -2747,9 +2747,7 @@ header {
   	padding: 1em 1.3em;
   }
   
-  .bottom p {
-  	color: #001D19;
-  }
+
   
   .bottom-buttons {
   	display: flex;
