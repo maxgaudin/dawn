@@ -2739,7 +2739,7 @@ header {
   width: 70%;
   border-left: none;
   height: 300px;
-  display: none;
+  /* display: none; */
   background: #DEEBEE;
   font-family: 'Americana';
 }
