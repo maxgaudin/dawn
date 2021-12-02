@@ -2709,6 +2709,10 @@ header {
   	color: #005348;
   }
   
+  span .price {
+  	color: #005348;
+  }
+  
   .add-cart {
   background: #005348;
     border: none;
