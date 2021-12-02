@@ -2553,6 +2553,14 @@ mix-blend-mode: normal;
 	padding: 0 5rem 0 0;  
 }
   
+  /**** product page buttons ***/
+  
+  .product-form__submit {
+    
+    background: #DD5A37;
+    color: #fff;
+    border: none;
+  
   /** homepage banner - save with a bundle **/
   
   #shopify-section-template--15213254869183__1636504148a9dd3f5f {
@@ -2892,7 +2900,7 @@ header {
     text-transform: uppercase;
     color: #fff;
     margin: 0 4em !important;
-    padding: 0;
+    padding: .2em 0 !important;
   }
   
   
