@@ -2745,6 +2745,11 @@ header {
   .tabcontent svg {
   	width: 43px;
   }
+  
+  .inner-content {
+  
+  	padding: 1em 0 1em 3em;
+  }
 
   .inner-content span {
     margin-top: 22px;
