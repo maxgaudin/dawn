@@ -2741,6 +2741,11 @@ header {
   	padding: 1em 1.3em;
   }
   
+  .bottom-buttons {
+  	display: flex;
+    justify-content: space-between;
+  }
+  
   /* homepage tabs */
   
 	* {box-sizing: border-box}
