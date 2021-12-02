@@ -2741,5 +2741,9 @@ header {
   background: #DEEBEE;
   font-family: 'Americana';
 }
+  
+  .tabcontent svg {
+  	width: 50px;
+  }
 
 
