@@ -2675,6 +2675,11 @@ header {
     margin-top: 1.3rem;
   }
   
+  #shopify-section-template--15213254869183__1638396251f0ee1c29 .collection {
+  	max-width: 1000px;
+    margin: 0 auto;
+  }
+  
    #shopify-section-template--15213254869183__1638396251f0ee1c29 p {
   	margin-top: 0.5rem;
     font-size: 1.3rem;
@@ -2688,11 +2693,7 @@ header {
     text-decoration: none;
   }
   
-  .first {
-  	max-width: 1000px;
-    margin: 0 auto;
-  }
-  
+ 
   .first .card-wrapper {
   
   max-width: 20.6em;
