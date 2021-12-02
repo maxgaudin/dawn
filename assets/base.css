@@ -2707,18 +2707,23 @@ header {
   
   .add-cart {
   background: #005348;
+    border: none;
+    padding: 0.8em 2.6em;
   }
   .add-cart a {
   	color: #fff;
+    text-decoration: none;
   }
   
   .learn {
     border: 1px solid #DD5A37;
     background: #fff;
+    padding: 0.8em 2.6em;
   }
   
   .learn a {
   	color: #DD5A37;
+    text-decoration: none;
   }
   
   .bottom {
