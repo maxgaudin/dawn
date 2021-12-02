@@ -2872,7 +2872,7 @@ header {
   }
   
   .smart-tabs-content-block {
-  	border: none;
+  	border: none !important;
   }
   
   .smart-tabs-navigation-li-active {
