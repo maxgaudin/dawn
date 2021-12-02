@@ -2704,7 +2704,20 @@ header {
   	border-radius: 57px 60px 0 0;
   }
   
+  .add-cart {
+  background: #005348;
+  }
+  .add-cart a {
+  	color: #fff;
+  }
   
+  .learn {
+    border: 1px solid #DD5A37;
+  }
+  
+  .learn a {
+  	color: #DD5A37;
+  }
   
   /* homepage tabs */
   
