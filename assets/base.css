@@ -2747,6 +2747,10 @@ header {
   	padding: 1em 1.3em;
   }
   
+  .bottom p {
+  	color: #001D19;
+  }
+  
   .bottom-buttons {
   	display: flex;
     justify-content: space-between;
