@@ -2705,6 +2705,10 @@ header {
   	border-radius: 57px 60px 0 0;
   }
   
+  .first .price {
+  	color: #005348;
+  }
+  
   .add-cart {
   background: #005348;
     border: none;
