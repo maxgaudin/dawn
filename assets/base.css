@@ -2755,5 +2755,6 @@ header {
   .inner-content p {
   
   	margin: 0;
+    height: 4em;
   }
 
