@@ -2751,4 +2751,9 @@ header {
     position: absolute;
     padding-left: 19px;
   }
+  
+  .inner-content p {
+  
+  	margin: 0;
+  }
 
