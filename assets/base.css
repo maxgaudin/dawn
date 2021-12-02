@@ -2692,62 +2692,49 @@ header {
   
   /* homepage tabs */
   
-	* {
-		box-sizing: border-box;
-	}
+	* {box-sizing: border-box}
 
-	#tabsDiv {
-		height: 300px;
-		border: 2px solid #c0c0c0;
-	}
+/* Style the tab */
+.tab {
+  float: left;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+  width: 30%;
+  height: 300px;
+}
 
-	#tabsDiv ul {
-		height: 300px;
-		padding: 0px 5px;
-	}
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  display: block;
+  background-color: inherit;
+  color: black;
+  padding: 22px 16px;
+  width: 100%;
+  border: none;
+  outline: none;
+  text-align: left;
+  cursor: pointer;
+  transition: 0.3s;
+}
 
-	#tabsDiv li {
-		width: 15%;
-		height: 60px;
-	}
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
 
-	#tabsDiv button {
-		float: left;
-		border: 1px solid #c0c0c0;
-		background-color: #f1f0f4;
-	}
+/* Create an active/current "tab button" class */
+.tab button.active {
+  background-color: #ccc;
+}
 
-	/* Button to open the content */
-	#tabsDiv button {
-		display: block;
-		background-color: inherit;
-		color: black;
-		padding: 25px 15px;
-		width: 100%;
-		text-align: left;
-		cursor: pointer;
-	}
-
-	/* Button styling on mouse hover */
-	#tabsDiv button:hover {
-		background-color: #d1d1d1;
-		color: lime;
-	}
-
-	#tabsDiv button.active {
-		background-color: #c0c0c0;
-	}
-
-	/* Content for tabs*/
-	.contentClass {
-		display: none;
-		position: absolute;
-		left: 18%;
-		padding: 0px 15px;
-		width: 70%;
-		border-style: none;
-		height: 300px;
-	}
-
+/* Style the tab content */
+.tabcontent {
+  float: left;
+  padding: 0px 12px;
+  border: 1px solid #ccc;
+  width: 70%;
+  border-left: none;
+  height: 300px;
+}
 
 
