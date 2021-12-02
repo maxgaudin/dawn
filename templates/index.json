@@ -44,7 +44,7 @@
     "163840404606df5730": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"tab\">\n  <button class=\"tablinks\" onclick=\"openCity(event, 'London')\">London<\/button>\n  <button class=\"tablinks\" onclick=\"openCity(event, 'Paris')\">Paris<\/button>\n  <button class=\"tablinks\" onclick=\"openCity(event, 'Tokyo')\">Tokyo<\/button>\n<\/div>\n\n<div id=\"London\" class=\"tabcontent\">\n  <h3>London<\/h3>\n  <p>London is the capital city of England.<\/p>\n<\/div>\n\n<div id=\"Paris\" class=\"tabcontent\">\n  <h3>Paris<\/h3>\n  <p>Paris is the capital of France.<\/p>\n<\/div>\n\n<div id=\"Tokyo\" class=\"tabcontent\">\n  <h3>Tokyo<\/h3>\n  <p>Tokyo is the capital of Japan.<\/p>\n<\/div>"
+        "custom_liquid": "<div class=\"tab\">\n  <button class=\"tablinks\" onclick=\"openCity(event, 'London')\">How We Farm<\/button>\n  <button class=\"tablinks\" onclick=\"openCity(event, 'Paris')\">How We're run<\/button>\n  <button class=\"tablinks\" onclick=\"openCity(event, 'Tokyo')\">About Our Hemp<\/button>\n<\/div>\n\n<div id=\"London\" class=\"tabcontent\">\n  <p>Organically Grown<\/p>\n  <p>Cruelty-Free<\/p>\n  <p>Human & Pet Friendly<\/p>\n  <p>Microbiome-friendly Formulated<\/p>\n<\/div>\n\n<div id=\"Paris\" class=\"tabcontent\">\n    <p>Organically Grown<\/p>\n    <p>Cruelty-Free<\/p>\n    <p>Human & Pet Friendly<\/p>\n    <p>Microbiome-friendly Formulated<\/p>\n<\/div>\n\n<div id=\"Tokyo\" class=\"tabcontent\">\n    <p>Organically Grown<\/p>\n    <p>Cruelty-Free<\/p>\n    <p>Human & Pet Friendly<\/p>\n    <p>Microbiome-friendly Formulated<\/p>\n<\/div>"
       }
     },
     "163650295081817c82": {
