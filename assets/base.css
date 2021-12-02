@@ -2756,6 +2756,10 @@ header {
     justify-content: space-between;
   }
   
+  .bottom-buttons a {
+  	font-family: 'Karla';
+  }
+  
   .links {
   	text-align: center;
     padding-bottom: 2em;
