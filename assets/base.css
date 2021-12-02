@@ -2688,6 +2688,21 @@ header {
     text-decoration: none;
   }
   
+  .first {
+  	max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .first .card-wrapper {
+  
+  max-width: 20.6em;
+    border-radius: 57px 60px 0 0;
+  }
+  
+  .first img {
+  	border-radius: 57px 60px 0 0;
+  }
+  
   
   
   /* homepage tabs */
@@ -2764,4 +2779,7 @@ header {
   	margin: 0;
     height: 4em;
   }
+  
+  
+  
 
