@@ -2484,6 +2484,7 @@ mix-blend-mode: normal;
   padding: 5px 0 0 0;
     margin-bottom: 20px;
   margin-top: 0;
+    font-size: 1.8em;
   }
   
   #shopify-section-template--15213254869183__16379067572919fb5a .grid__item {
@@ -2498,6 +2499,16 @@ mix-blend-mode: normal;
     display: block;
   
   }
+  
+@media screen and (max-width: 749px) {
+  #shopify-section-template--15213254869183__16379067572919fb5a img {
+    max-width: 160px;
+    margin: 1.7em 0;
+  }
+  #shopify-section-template--15213254869183__163650295081817c82 h2 {
+  	text-align: center;
+  }
+}
   
 #shopify-section-template--15213254869183__multi_column h2 {
   color: #fff;
@@ -2517,6 +2528,10 @@ mix-blend-mode: normal;
   background: none !important;
 }
   
+  
+  
+
+
   
 /** homepage cream squiggle **/
   
@@ -2565,7 +2580,7 @@ mix-blend-mode: normal;
   
   #shopify-section-template--15213254869183__1636504148a9dd3f5f {
   
-  margin-top: -30px;
+  margin-top: -1.3em;
     z-index: 1;
     position: relative;
   }
