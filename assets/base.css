@@ -2580,7 +2580,7 @@ mix-blend-mode: normal;
   
   #shopify-section-template--15213254869183__1636504148a9dd3f5f {
   
-  margin-top: -1.3em;
+  margin-top: -1.3em !important;
     z-index: 1;
     position: relative;
   }
