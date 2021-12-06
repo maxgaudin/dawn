@@ -80,7 +80,7 @@
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "heading": "You may also like",
+        "heading": "Other top rated products",
         "image_ratio": "adapt",
         "show_secondary_image": false,
         "add_image_padding": false,
