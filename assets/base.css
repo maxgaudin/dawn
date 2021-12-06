@@ -2343,6 +2343,9 @@ details-disclosure > details {
 
 .footer-squiggle {
   margin-bottom: -10px;
+}
+  
+footer .gradient  {
   background: transparent !important;
 }
 
@@ -2354,6 +2357,7 @@ details-disclosure > details {
   
 .footer {
   margin-top: -20px;
+  border-top: none !important;
   
   }
 
