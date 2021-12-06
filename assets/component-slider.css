@@ -94,7 +94,7 @@ slider-component {
   justify-content: center;
 }
 
-@media screen and (min-width: 990px) {
+/* @media screen and (min-width: 990px) {
   .slider-buttons {
     display: none;
   }
@@ -104,7 +104,7 @@ slider-component {
   .slider--mobile + .slider-buttons {
     display: none;
   }
-}
+} */
 
 .slider-button {
   color: rgba(var(--color-foreground), 0.75);
