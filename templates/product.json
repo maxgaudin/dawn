@@ -65,6 +65,12 @@
         "enable_video_looping": false
       }
     },
+    "1638762398e8e9a3b4": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div style=\"background:#fbf6ed;\">\n    <ul class=\"grid grid grid grid--1-col product-grid grid--2-col-tablet grid--4-col-desktop negative-margin--small\" style=\"color: #001D19;\">\n\n        {% if collection.current_type == cbd-oil %}\n        <li class=\"grid__item\" style=\"margin: 2em 3em; padding: 1em 0 1em 2em;\">\n          \n            <h2>How to Use<\/h2>\n            <p>Day or night, add to your favorite teas, smoothies, tonics, raw foods, or straight-up as an elixir for your new favorite daily self-care beauty mixer. Check out our dosing guide for more info.<\/p>\n        <\/li>\n        <li class=\"grid__item\" style=\"margin: 2em 3em; padding: 1em 0 1em 5em;border-left: 2px solid #EAE5CC;\">\n            <h2>Directions<\/h2>\n            <p>Every, body is different. We recommend starting with 1 serving (15 drops, 4.2 mgs) and building up from there what works best for you. Our CBD Elixir is a full-spectrum & whole-plant hemp CBD oil | 4.2 mgs per serving.<\/p>\n        <\/li>\n        {% else %}\n        <h2>this is not cbd oil<\/h2>\n        {% endif %}\n\n    \n    <\/ul>\n<\/div>"
+      }
+    },
     "1638755374720bd277": {
       "type": "custom-liquid",
       "settings": {
@@ -88,19 +94,13 @@
       "settings": {
         "custom_liquid": "<div style=\"background: linear-gradient(180deg, #EA8392 0%, #F68C4B 46.99%, #E27E63 100%);padding: 3em 0;\">\n<h1 style=\"color: #fff;text-align: center;\">Have Questions?<\/h1>\n<ul class=\"grid grid grid grid--1-col product-grid grid--2-col-tablet grid--4-col-desktop negative-margin--small\">\n<li class=\"grid__item\" style=\"background: #005348; color: #fff; margin: 2em 3em; padding: 1em 0 1em 2em;\">\n    <p>EMAIL US<\/p>\n    <h2 style=\"color:white;\">hello@souladdict.co<\/h2>\n    <p>We’ll help answer any questions you have<\/p>\n<\/li>\n<li class=\"grid__item\" style=\"background: #FBF6ED; margin: 2em 3em; padding: 1em 0 1em 2em;\">\n    <p style=\"color: #DD5A37;\">LEARN MORE<\/p>\n    <h2>Read The Dosing Guide →<\/h2>\n    <p style=\"color: #DD5A37;\">We’ll help answer any questions you have<\/p>\n<\/li>\n<\/ul>\n<\/div>"
       }
-    },
-    "1638762398e8e9a3b4": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div style=\"background:#E5E5E5;\">\n    <ul class=\"grid grid grid grid--1-col product-grid grid--2-col-tablet grid--4-col-desktop negative-margin--small\" style=\"color: #001D19;\">\n\n        {% if collection.current_type == cbd-oil %}\n        <li class=\"grid__item\" style=\"margin: 2em 3em; padding: 1em 0 1em 2em;\">\n          \n            <h2>How to Use<\/h2>\n            <p>Day or night, add to your favorite teas, smoothies, tonics, raw foods, or straight-up as an elixir for your new favorite daily self-care beauty mixer. Check out our dosing guide for more info.<\/p>\n        <\/li>\n        <li class=\"grid__item\" style=\"margin: 2em 3em; padding: 1em 0 1em 2em;border-left: 2px solid #EAE5CC;\">\n            <h2>Directions<\/h2>\n            <p>Every, body is different. We recommend starting with 1 serving (15 drops, 4.2 mgs) and building up from there what works best for you. Our CBD Elixir is a full-spectrum & whole-plant hemp CBD oil | 4.2 mgs per serving.<\/p>\n        <\/li>\n        {% else %}\n        <h2>this is not cbd oil<\/h2>\n        {% endif %}\n\n    \n    <\/ul>\n<\/div>"
-      }
     }
   },
   "order": [
     "main",
+    "1638762398e8e9a3b4",
     "1638755374720bd277",
     "product-recommendations",
-    "1638758326907ae6a2",
-    "1638762398e8e9a3b4"
+    "1638758326907ae6a2"
   ]
 }
