@@ -2343,6 +2343,7 @@ details-disclosure > details {
 
 .footer-squiggle {
   margin-bottom: -10px;
+  background: transparent !important;
 }
 
 
@@ -2350,6 +2351,11 @@ details-disclosure > details {
   color: white;
   text-decoration: none;
 }
+  
+.footer {
+  margin-top: -20px;
+  
+  }
 
 #shopify-section-template--15213286490303__1635814473566c087b .image-with-text .gradient {
   background: none;
