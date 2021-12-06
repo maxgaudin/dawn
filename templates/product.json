@@ -86,7 +86,7 @@
     "1638758326907ae6a2": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"background: linear-gradient(180deg, #EA8392 0%, #F68C4B 46.99%, #E27E63 100%);padding: 3em 0;\">\n<h1 style=\"color: #fff;text-align: center;\">Have Questions?<\/h1>\n<ul class=\"grid\">\n<li class=\"grid__item\" style=\"background: #005348; color: #fff; margin: 2em 3em; padding: 1em 0 1em 2em;\">\n    <p>EMAIL US<\/p>\n    <h2 style=\"color:white;\">hello@souladdict.co<\/h2>\n    <p>We’ll help answer any questions you have<\/p>\n<\/li>\n<li class=\"grid__item\" style=\"background: #FBF6ED; margin: 2em 3em; padding: 1em 0 1em 2em;\">\n    <p style=\"color: #DD5A37;\">LEARN MORE<\/p>\n    <h2>Read The Dosing Guide →<\/h2>\n    <p style=\"color: #DD5A37;\">We’ll help answer any questions you have<\/p>\n<\/li>\n<\/ul>\n<\/div>"
+        "custom_liquid": "<div style=\"background: linear-gradient(180deg, #EA8392 0%, #F68C4B 46.99%, #E27E63 100%);padding: 3em 0;\">\n<h1 style=\"color: #fff;text-align: center;\">Have Questions?<\/h1>\n<ul class=\"grid grid grid grid--1-col product-grid grid--2-col-tablet grid--4-col-desktop negative-margin--small\">\n<li class=\"grid__item\" style=\"background: #005348; color: #fff; margin: 2em 3em; padding: 1em 0 1em 2em;\">\n    <p>EMAIL US<\/p>\n    <h2 style=\"color:white;\">hello@souladdict.co<\/h2>\n    <p>We’ll help answer any questions you have<\/p>\n<\/li>\n<li class=\"grid__item\" style=\"background: #FBF6ED; margin: 2em 3em; padding: 1em 0 1em 2em;\">\n    <p style=\"color: #DD5A37;\">LEARN MORE<\/p>\n    <h2>Read The Dosing Guide →<\/h2>\n    <p style=\"color: #DD5A37;\">We’ll help answer any questions you have<\/p>\n<\/li>\n<\/ul>\n<\/div>"
       }
     }
   },
