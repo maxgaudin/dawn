@@ -2935,6 +2935,10 @@ header {
     padding: 0;
     }
     
+    .product__info-wrapper {
+    	padding-top: 4em;
+    }
+    
 
   
 
