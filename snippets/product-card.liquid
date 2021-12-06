@@ -17,6 +17,15 @@
 {{ 'component-rating.css' | asset_url | stylesheet_tag }}
 
 <div class="card-wrapper">
+    <div>
+  	<form method="post" action="/cart/add">
+
+<input type="hidden" name="id" value="{{ product_card_product.first_available_variant.id }}" />
+<input type="hidden" type="number" id="quantity" name="quantity" value="1"/>
+<input type="submit" value="Add to cart" class="btn" />
+
+</form>
+  </div>
   <div class="card-information">
     <div class="card-information__wrapper">
       {%- if show_vendor -%}
@@ -61,15 +70,7 @@
     
   </div>
   
-  <div>
-  	<form method="post" action="/cart/add">
 
-<input type="hidden" name="id" value="{{ product_card_product.first_available_variant.id }}" />
-<input type="hidden" type="number" id="quantity" name="quantity" value="1"/>
-<input type="submit" value="Add to cart" class="btn" />
-
-</form>
-  </div>
 
   <div class="card card--product{% if product_card_product.featured_media == nil %} card--text-only card--soft{% endif %}{% if product_card_product.featured_media != nil and show_image_outline %} card--outline{% endif %}" tabindex="-1">
     <div class="card__inner">
