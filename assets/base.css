@@ -2358,6 +2358,7 @@ footer .gradient  {
 .footer {
   margin-top: -20px;
   border-top: none !important;
+  background: none !important;
   
   }
 
