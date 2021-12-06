@@ -92,7 +92,7 @@
     "1638762398e8e9a3b4": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "{% if collection.current_type == \"cbd-oil\" %}\n  <h1>this is cbd oil<\/h1>\n{% else %}\n  <h2>this is not cbd oil<\/h2>\n{% endif %}\n\n{% for collection in product.collections %}\n    {{ collection.id }}\n{% endfor %}"
+        "custom_liquid": "{% if collection.current_type == cbd-oil %}\n  <h1>this is cbd oil<\/h1>\n{% else %}\n  <h2>this is not cbd oil<\/h2>\n{% endif %}"
       }
     }
   },
