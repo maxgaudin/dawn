@@ -2573,10 +2573,14 @@ mix-blend-mode: normal;
 .product:not(.product--no-media):not(.featured-product) .product__info-wrapper {
     max-width: 50% !important;
     width: calc(50% - 1rem / 2) !important;
-    background: linear-gradient(
-180deg, #005348 0%, #00634E 50.12%, #001D19 100%);
+   
 	}
 }  
+  
+.product__info-wrapper {  
+  background: linear-gradient(
+180deg,#005348 0,#00634e 50.12%,#001d19 100%);
+}
   
 .product__info-wrapper, .product__info-wrapper .product__title, .product__info-wrapper .price-item {
 	color: white;
