@@ -58,7 +58,11 @@
       {% render 'price', product: product_card_product, price_class: '' %}
               
     </div>
-    <form method="post" action="/cart/add">
+    
+  </div>
+  
+  <div>
+  	<form method="post" action="/cart/add">
 
 <input type="hidden" name="id" value="{{ product_card_product.first_available_variant.id }}" />
 <input type="hidden" type="number" id="quantity" name="quantity" value="1"/>
