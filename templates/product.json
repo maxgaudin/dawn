@@ -71,6 +71,12 @@
         "custom_liquid": "<div style=\"background:#fbf6ed;\">\n    <ul class=\"grid grid grid grid--1-col product-grid grid--2-col-tablet grid--4-col-desktop negative-margin--small\" style=\"color: #001D19;\">\n\n\n{% for collection in product.collections %}\n\n    {% if collection.id == 266494279871 %}\n    <li class=\"grid__item\" style=\"margin: 2em 3em; padding: 1em 0 1em 2em;\">\n          \n        <h2>How to Use<\/h2>\n        <p>SMOKE Day or night, add to your favorite teas, smoothies, tonics, raw foods, or straight-up as an elixir for your new favorite daily self-care beauty mixer. Check out our dosing guide for more info.<\/p>\n    <\/li>\n    <li class=\"grid__item\" style=\"margin: 2em 3em; padding: 1em 0 1em 5em;border-left: 2px solid #EAE5CC;\">\n        <h2>Directions<\/h2>\n        <p>SMOKE Every, body is different. We recommend starting with 1 serving (15 drops, 4.2 mgs) and building up from there what works best for you. Our CBD Elixir is a full-spectrum & whole-plant hemp CBD oil | 4.2 mgs per serving.<\/p>\n    <\/li>\n    {% elsif collection.id == 266495295679 %}\n    <li class=\"grid__item\" style=\"margin: 2em 3em; padding: 1em 0 1em 2em;\">\n          \n        <h2>How to Use<\/h2>\n        <p>Day or night, add to your favorite teas, smoothies, tonics, raw foods, or straight-up as an elixir for your new favorite daily self-care beauty mixer. Check out our dosing guide for more info.<\/p>\n    <\/li>\n    <li class=\"grid__item\" style=\"margin: 2em 3em; padding: 1em 0 1em 5em;border-left: 2px solid #EAE5CC;\">\n        <h2>Directions<\/h2>\n        <p>Every, body is different. We recommend starting with 1 serving (15 drops, 4.2 mgs) and building up from there what works best for you. Our CBD Elixir is a full-spectrum & whole-plant hemp CBD oil | 4.2 mgs per serving.<\/p>\n    <\/li>\n    {% endif %}\n\n{% endfor %}\n\n<\/div>"
       }
     },
+    "163884368414731c73": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"cream-squiggle-bottom\"><svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\n\t viewBox=\"0 0 5184 191.3\" style=\"enable-background:new 0 0 5184 191.3;\" xml:space=\"preserve\">\n<style type=\"text\/css\">\n\t.st0{fill:#fbf6ed !important;}\n<\/style>\n<path class=\"st0\" d=\"M0,187.8c208.7,8.5,226.8-40.9,366.5-43.3c107.1,0,185.1,42.7,308.5,42.7c101.6,0,186.9-42.7,308.4-42.7\n\tc116.1,0,128.8,41.5,299.4,42.7v0.6c208.7,8.5,226.8-40.9,366.5-43.3c107.1,0,185.1,42.7,308.4,42.7c101.6,0,186.9-42.7,308.5-42.7\n\tc116.1,0,128.8,41.5,299.4,42.7v0.6c208.7,8.5,226.8-40.9,366.5-43.3c107.1,0,185.1,42.7,308.5,42.7c101.6,0,186.9-42.7,308.5-42.7\n\tc116.1,0,128.8,41.5,299.4,42.7v0.6c208.7,8.5,225-40.2,364.7-42.7c107.1,0,185.1,42.7,308.5,42.7c101.6,0,186.9-42.7,308.5-42.7\n\tc112.5-0.6,177.8,55.5,353.8,40.2V0C3549.1,0,1633,0,0,0V187.8z\"\/>\n<\/svg>\n<\/div>"
+      }
+    },
     "163884218207069564": {
       "type": "custom-liquid",
       "settings": {
@@ -105,6 +111,7 @@
   "order": [
     "main",
     "1638762398e8e9a3b4",
+    "163884368414731c73",
     "163884218207069564",
     "1638755374720bd277",
     "product-recommendations",
