@@ -2597,6 +2597,14 @@ mix-blend-mode: normal;
     background: #DD5A37;
     color: #fff;
     border: none;
+    box-shadow: none;
+    
+    /**** collection product add to cart buttons ****/
+    
+    .product-form__submit {
+      background: #005348;
+
+    }
   
   /** homepage banner - save with a bundle **/
   
