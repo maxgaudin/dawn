@@ -2601,9 +2601,9 @@ mix-blend-mode: normal;
     
     /**** collection product add to cart buttons ****/
     
-    .product-recommendations button {
-      background: #005348;
-	  color: #FBF6ED;
+    .product-recommendations .button {
+      background: #005348 !important;
+	  color: #FBF6ED !important;
 
     }
   
