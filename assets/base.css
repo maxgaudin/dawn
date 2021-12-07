@@ -2598,10 +2598,17 @@ mix-blend-mode: normal;
     color: #fff;
     border: none;
     box-shadow: none;
+  }
     
     /**** collection product add to cart buttons ****/
     
     .product-recommendations .button {
+      background: #005348 !important;
+	  color: #FBF6ED !important;
+
+    }
+    
+    .product-recommendations form {
       background: #005348 !important;
 	  color: #FBF6ED !important;
 
