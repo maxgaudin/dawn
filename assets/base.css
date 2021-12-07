@@ -3024,6 +3024,16 @@ header {
 
   }
   
+  #shopify-section-template--15272828403903__1638886284420151cd  .image-with-text__content {
+  	background: #fbf6ed;
+    color: #001D19;
+  }
+  
+   #shopify-section-template--15272828403903__1638886284420151cd h1,  #shopify-section-template--15272828403903__1638886284420151cd p {
+       color: #001D19;
+
+   }
+  
   #shopify-section-template--15213254672575__16388848264da2ef22, #shopify-section-template--15272828403903__product-grid, #shopify-section-template--15272828403903__banner {
   background: #fbf6ed;
   }
@@ -3031,3 +3041,4 @@ header {
   #shopify-section-template--15213254672575__16388848264da2ef22 h2.title {
   	text-align: center;
   }
+  
