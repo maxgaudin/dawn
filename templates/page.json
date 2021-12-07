@@ -26,11 +26,39 @@
       "settings": {
         "custom_liquid": "<div style=\"background: linear-gradient(180deg, #EA8392 0%, #F68C4B 46.99%, #E27E63 100%);padding: 3em 0;\">\n<h1 style=\"color: #fff;text-align: center;\">Have Questions?<\/h1>\n<ul class=\"grid grid grid grid--1-col product-grid grid--2-col-tablet grid--4-col-desktop negative-margin--small\">\n<li class=\"grid__item\" style=\"background: #005348; color: #fff; margin: 2em 3em; padding: 1em 0 1em 2em;\">\n    <p>EMAIL US<\/p>\n    <h2 style=\"color:white;\">hello@souladdict.co<\/h2>\n    <p>We’ll help answer any questions you have<\/p>\n<\/li>\n<li class=\"grid__item\" style=\"background: #FBF6ED; margin: 2em 3em; padding: 1em 0 1em 2em;\">\n    <p style=\"color: #DD5A37;\">LEARN MORE<\/p>\n    <h2>Read The Dosing Guide →<\/h2>\n    <p style=\"color: #DD5A37;\">We’ll help answer any questions you have<\/p>\n<\/li>\n<\/ul>\n<\/div>"
       }
+    },
+    "16388853908bf357ff": {
+      "type": "image-with-text",
+      "blocks": {
+        "1638885390c0ed7c22-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Welcome to the Flower Shop"
+          }
+        },
+        "1638885390c0ed7c22-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>a flower power emporium where we grow our hemp flowers with love, rainbows, unicorns and high vibrations in the rolling foothills of the Blue Ridge Mountains.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1638885390c0ed7c22-0",
+        "1638885390c0ed7c22-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Website_Update_Soul_Addict__2021_Ysabella_Langdon-3_1.png",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
     }
   },
   "order": [
     "main",
     "16388848264da2ef22",
-    "163888504175e1d571"
+    "163888504175e1d571",
+    "16388853908bf357ff"
   ]
 }
