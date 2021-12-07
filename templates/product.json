@@ -71,6 +71,12 @@
         "custom_liquid": "<div style=\"background:#fbf6ed;\">\n    <ul class=\"grid grid grid grid--1-col product-grid grid--2-col-tablet grid--4-col-desktop negative-margin--small\" style=\"color: #001D19;\">\n\n\n{% for collection in product.collections %}\n\n    {% if collection.id == 266494279871 %}\n    <li class=\"grid__item\" style=\"margin: 2em 3em; padding: 1em 0 1em 2em;\">\n          \n        <h2>How to Use<\/h2>\n        <p>SMOKE Day or night, add to your favorite teas, smoothies, tonics, raw foods, or straight-up as an elixir for your new favorite daily self-care beauty mixer. Check out our dosing guide for more info.<\/p>\n    <\/li>\n    <li class=\"grid__item\" style=\"margin: 2em 3em; padding: 1em 0 1em 5em;border-left: 2px solid #EAE5CC;\">\n        <h2>Directions<\/h2>\n        <p>SMOKE Every, body is different. We recommend starting with 1 serving (15 drops, 4.2 mgs) and building up from there what works best for you. Our CBD Elixir is a full-spectrum & whole-plant hemp CBD oil | 4.2 mgs per serving.<\/p>\n    <\/li>\n    {% elsif collection.id == 266495295679 %}\n    <li class=\"grid__item\" style=\"margin: 2em 3em; padding: 1em 0 1em 2em;\">\n          \n        <h2>How to Use<\/h2>\n        <p>Day or night, add to your favorite teas, smoothies, tonics, raw foods, or straight-up as an elixir for your new favorite daily self-care beauty mixer. Check out our dosing guide for more info.<\/p>\n    <\/li>\n    <li class=\"grid__item\" style=\"margin: 2em 3em; padding: 1em 0 1em 5em;border-left: 2px solid #EAE5CC;\">\n        <h2>Directions<\/h2>\n        <p>Every, body is different. We recommend starting with 1 serving (15 drops, 4.2 mgs) and building up from there what works best for you. Our CBD Elixir is a full-spectrum & whole-plant hemp CBD oil | 4.2 mgs per serving.<\/p>\n    <\/li>\n    {% endif %}\n\n{% endfor %}\n\n<\/div>"
       }
     },
+    "163884218207069564": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"ingredients\">\n    <h1>Inside {{ product.title }}<\/h1>\n    <ul class=\"grid\">\n        <li class=\"grid__item\">\n            <img src=\"http:\/\/cdn.shopify.com\/s\/files\/1\/2336\/3219\/products\/shutterstock_116205556bacon_b59ae0a5-6673-4d99-a9ba-ec6ded5ba99c_1024x1024.jpg?v=1569305453\" alt=\"\">\n        <\/li>\n        <li class=\"grid__item\">\n            <h3>Organic cold pressed avocado oil<\/h3>\n            <p>Virgin Organic Avocado Oil is an unrefined oil that carries \n            a dark green color with a characteristic odor and taste. This oil is known to be rich in vitamin E and the essential fatty acid Oleic Acid.<\/p>\n            <p>Sourced from Kenya<\/p>\n\n\n        <\/li>\n    <\/ul>\n<\/div>"
+      }
+    },
     "1638755374720bd277": {
       "type": "custom-liquid",
       "settings": {
@@ -99,6 +105,7 @@
   "order": [
     "main",
     "1638762398e8e9a3b4",
+    "163884218207069564",
     "1638755374720bd277",
     "product-recommendations",
     "1638758326907ae6a2"
