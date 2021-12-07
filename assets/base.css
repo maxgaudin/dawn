@@ -2602,13 +2602,13 @@ mix-blend-mode: normal;
     
     /**** collection product add to cart buttons ****/
     
-    .product-recommendations .button {
+    .product-recommendations .button, .collection .button {
       background: #005348 !important;
 	  color: #FBF6ED !important;
 	  box-shadow: none;
     }
     
-    .product-recommendations form {
+    .product-recommendations form, .collection form {
       background: #005348 !important;
 	  color: #FBF6ED !important;
 
