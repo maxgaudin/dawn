@@ -80,7 +80,7 @@
     "163884218207069564": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"ingredients\">\n    <h1>Inside {{ product.title }}<\/h1>\n    <ul class=\"grid\">\n        <li class=\"grid__item\">\n            <img src=\"http:\/\/cdn.shopify.com\/s\/files\/1\/2336\/3219\/products\/shutterstock_116205556bacon_b59ae0a5-6673-4d99-a9ba-ec6ded5ba99c_1024x1024.jpg?v=1569305453\" alt=\"\">\n        <\/li>\n        <li class=\"grid__item\">\n            <h3>Organic cold pressed avocado oil<\/h3>\n            <p>Virgin Organic Avocado Oil is an unrefined oil that carries \n            a dark green color with a characteristic odor and taste. This oil is known to be rich in vitamin E and the essential fatty acid Oleic Acid.<\/p>\n            <p>Sourced from Kenya<\/p>\n\n\n        <\/li>\n    <\/ul>\n<\/div>"
+        "custom_liquid": "<div class=\"ingredients\">\n    <h1>Inside {{ product.title }}<\/h1>\n    <ul class=\"grid\">\n        <li class=\"grid__item\">\n            <img src=\"http:\/\/cdn.shopify.com\/s\/files\/1\/2336\/3219\/products\/shutterstock_116205556bacon_b59ae0a5-6673-4d99-a9ba-ec6ded5ba99c_1024x1024.jpg?v=1569305453\" alt=\"\">\n        <\/li>\n        <li class=\"grid__item\">\n            <h2>Organic cold pressed avocado oil<\/h2>\n            <p>Virgin Organic Avocado Oil is an unrefined oil that carries \n            a dark green color with a characteristic odor and taste. This oil is known to be rich in vitamin E and the essential fatty acid Oleic Acid.<\/p>\n            <p>Sourced from Kenya<\/p>\n\n\n        <\/li>\n    <\/ul>\n<\/div>"
       }
     },
     "1638755374720bd277": {
