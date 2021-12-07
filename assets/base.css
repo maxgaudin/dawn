@@ -2592,7 +2592,7 @@ mix-blend-mode: normal;
   
   /**** product page buttons ***/
   
-  .product-form__submit {
+  .product .product-form__submit {
     
     background: #DD5A37;
     color: #fff;
