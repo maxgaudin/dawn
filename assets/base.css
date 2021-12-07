@@ -2989,7 +2989,8 @@ header {
   }
   
   .ingredients img {
-  	max-width: 100px;
+  	border-radius: 100px;
+    max-width: 250px;
   }
   
   .ingredients h3 {
