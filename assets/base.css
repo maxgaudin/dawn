@@ -3011,3 +3011,18 @@ header {
   	text-align: center;
     color: #001D19;
   }
+  
+  /*******
+  *************
+  ** flowe shop ***
+  ***************
+  ******/
+  
+  #shopify-section-template--15213254672575__16388848264da2ef22 {
+  background: #fbf6ed;
+    padding: 2em 0 2em 0;
+  }
+  
+  #shopify-section-template--15213254672575__16388848264da2ef22 h2.title {
+  	text-align: center;
+  }
