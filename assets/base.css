@@ -2551,9 +2551,9 @@ mix-blend-mode: normal;
 
 
   
-/** homepage cream squiggle **/
+/** homepage cream squiggle, product page cream squiggle **/
   
-  #shopify-section-template--15213254869183__1638390727d35379ab {
+  #shopify-section-template--15213254869183__1638390727d35379ab, shopify-section-template--15213254475967__163884368414731c73 {
   margin-top: 0;
   z-index: 100;
   position: relative;
