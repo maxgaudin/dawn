@@ -1,5 +1,32 @@
 {
   "sections": {
+    "1638886284420151cd": {
+      "type": "image-with-text",
+      "blocks": {
+        "163888628490b6f027-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Welcome to the Flower Shop"
+          }
+        },
+        "163888628490b6f027-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>a flower power emporium where we grow our hemp flowers with love, rainbows, unicorns and high vibrations in the rolling foothills of the Blue Ridge Mountains.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163888628490b6f027-0",
+        "163888628490b6f027-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Website_Update_Soul_Addict__2021_Ysabella_Langdon-3_1.png",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "settings": {
@@ -30,6 +57,7 @@
     }
   },
   "order": [
+    "1638886284420151cd",
     "banner",
     "product-grid",
     "1638885898fc35b49d"
