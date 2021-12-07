@@ -2978,3 +2978,6 @@ header {
     }
   
 
+  .ingredients {
+  	background: linear-gradient(180deg, #EA8392 0%, #F68C4B 46.99%, #E27E63 100%);
+  }
