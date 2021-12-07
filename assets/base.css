@@ -2662,25 +2662,25 @@ header {
   
   
 /** collection **/
-  .collection .media img {
+  .collection .media img, .product-recommendations .media img {
   border-radius: 60px 60px 0 0;
   }
   
-  .collection .card-wrapper {
+  .collection .card-wrapper, .product-recommendations .card-wrapper {
   background: #fff;
   border-radius: 60px 60px 0 0;
   }
   
-  .collection .card-information__wrapper {
+  .collection .card-information__wrapper, .product-recommendations .card-information__wrapper {
   padding: 5px 10px;
   }
   
-  .collection .card-information__wrapper > .price {
+  .collection .card-information__wrapper > .price, .product-recommendations .card-information__wrapper > .price {
   color: #005348;
 
   }
   
-  .collection .card-information__wrapper h3 {
+  .collection .card-information__wrapper h3, .product-recommendations card-information__wrapper h3 {
   font-size: 1em;
 
   }
