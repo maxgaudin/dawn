@@ -2601,8 +2601,9 @@ mix-blend-mode: normal;
     
     /**** collection product add to cart buttons ****/
     
-    .product-form__buttons {
+    .product-form__submit {
       background: #005348;
+	  color: #FBF6ED;
 
     }
   
