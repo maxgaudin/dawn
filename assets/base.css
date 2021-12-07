@@ -2605,7 +2605,7 @@ mix-blend-mode: normal;
     .product-recommendations .button {
       background: #005348 !important;
 	  color: #FBF6ED !important;
-
+	  box-shadow: none;
     }
     
     .product-recommendations form {
