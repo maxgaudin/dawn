@@ -3042,3 +3042,10 @@ header {
   	text-align: center;
   }
   
+  @media screen and (min-width: 750px) {
+    .image-with-text {
+    	margin-top: 0;
+      margin-bottom: 0;
+    }
+  }
+  
