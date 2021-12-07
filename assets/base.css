@@ -2986,6 +2986,8 @@ header {
   .ingredients h1 {
   	text-align: center;
     color: #fff;
+    margin: 0;
+    padding: 2em 0 1em 0;
   }
   
   .ingredients img {
@@ -2995,4 +2997,8 @@ header {
   
   .ingredients h3 {
   	font-style: italic;
+  }
+  
+  #shopify-section-template--15213254475967__163884218207069564 {
+  	margin-top: -30px;
   }
