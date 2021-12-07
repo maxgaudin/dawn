@@ -230,7 +230,7 @@ html.no-js .no-js-hidden {
   }
 
   .spaced-section {
-    margin-top: calc(5rem + var(--page-width-margin));
+    margin-top: 0;
   }
 
   .spaced-section:last-child {
