@@ -3057,3 +3057,8 @@ header {
   #shopify-section-template--15272828403903__1639073918ac05dd6a h1, #shopify-section-template--15272828403903__1639073918ac05dd6a h2, #shopify-section-template--15272828403903__1639073918ac05dd6a h3, #shopify-section-template--15272828403903__1639073918ac05dd6a h4 {
   	color: #fff;
   }
+
+   #shopify-section-template--15272828403903__1639073918ac05dd6a .button {
+  	color: #DD5A37;
+  	background: #fff;
+   }
