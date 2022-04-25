@@ -3062,3 +3062,9 @@ header {
   	color: #DD5A37;
   	background: #fff;
    }
+  
+  /* Shop page */
+  
+  #shopify-section-template--15213255000255__1638887203fec01003 .banner__box {
+  	background: transparent;
+  }
