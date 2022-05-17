@@ -3133,3 +3133,8 @@ header {
   .collection .grid {
   justify-content: center;
   }
+  
+  @media screen and (min-width: 990px)
+    .page-width-desktop {
+    padding: 0 5rem 5rem;
+    }
