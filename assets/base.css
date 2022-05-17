@@ -3085,6 +3085,7 @@ header {
   .collection .title-wrapper-with-link {
   	margin-top: 0;
     padding-top: 1rem;
+    justify-content: center;
   }
   
   /* Shop page favorites section */
