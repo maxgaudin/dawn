@@ -3119,5 +3119,9 @@ header {
   padding-left: 200px;
     padding-top: 3rem;
     padding-bottom: 3rem;
+}
+  
+  .collection .grid__item {
+  	padding: 0 10px;
   }
   
