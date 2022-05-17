@@ -3088,6 +3088,10 @@ header {
     justify-content: center;
   }
   
+  .collection .title-wrapper-with-link h2 {
+  font-size: 3.25rem;
+  }
+  
   /* Shop page favorites section */
   
   #shopify-section-template--15213255000255__1650920805db4f030b .title {
