@@ -3080,6 +3080,8 @@ header {
   
   #shopify-section-template--15213255000255__1650920805db4f030b {
   	background: linear-gradient(180deg, #89414D 8.97%, #D1403E 43.87%, #F07645 75.12%, #F088A7 100%);
+    margin-top: -30px;
+    padding-top: 70px;
   }
   
   .collection .title-wrapper-with-link {
@@ -3108,9 +3110,4 @@ header {
     margin-top: -20px;
     z-index: 1000;
 }
-  }
   
-  #shopify-section-template--15213255000255__1650920805db4f030b {
-  	margin-top: -30px;
-    padding-top: 70px;
-  }
