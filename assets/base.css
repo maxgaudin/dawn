@@ -2772,9 +2772,12 @@ header {
   /* shop page middle section */
   
 #shopify-section-template--15213255000255__16532941130a62232c {
-  border-top: 1px solid #FBF6ED;
-    border-bottom: 1px solid #FBF6ED;
- 
+ background: #FBF6ED;
+}
+  
+#shopify-section-template--15213255000255__16532941130a62232c .head-shop { 
+  border-top: 1px solid #DD5A37;
+  border-bottom: 1px solid #DD5A37;
 }
  
   
