@@ -2735,8 +2735,38 @@ header {
     margin-bottom: 3em;
   }
   
+  .head-shop {
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    padding-left: 10px;
+    display: block;
+    height: 100px;
+    color: #fff;
+    margin-bottom: 3em;
+  }
+  .head-shop h2 {
+  	color: #fff;
+    font-size: 2.8rem;
+    margin-bottom: 0;
+    margin-top: 1.3rem;
+  }
+  
   .head-shop .head-left p {
   	color: #fff;
+  }
+  .head-left {
+  	color: #fff;
+    float: left;
+  }
+  .head-left p {
+  	color: #fff;
+  }
+  
+  .head-right a {
+    color: #fff;
+    float: right;
+    padding-top: 3rem;
+    text-decoration: none;
   }
   
   #shopify-section-template--15213254869183__1638396251f0ee1c29 .head-left, #shopify-section-template--15213254869183__1653292428febe619f .head-left {
@@ -2755,12 +2785,12 @@ header {
     margin-top: 1.3rem;
   }
   
-  #shopify-section-template--15213254869183__1638396251f0ee1c29 .collection, #shopify-section-template--15213254869183__1653292428febe619f .collection {
+  #shopify-section-template--15213254869183__1638396251f0ee1c29 .collection, #shopify-section-template--15213254869183__1653292428febe619f .collection, #shopify-section-template--15213255000255__16532941130a62232c .collection {
   	max-width: 1200px;
     margin: 0 auto;
   }
   
-   #shopify-section-template--15213254869183__1638396251f0ee1c29 p, #shopify-section-template--15213254869183__1653292428febe619f p {
+   #shopify-section-template--15213254869183__1638396251f0ee1c29 p, #shopify-section-template--15213254869183__1653292428febe619f p, #shopify-section-template--15213255000255__16532941130a62232c p {
   	margin-top: 0.5rem;
     font-size: 1.3rem;
      color: #001d19;
