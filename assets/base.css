@@ -2589,7 +2589,18 @@ mix-blend-mode: normal;
 	color: white;
 }
   
-#shopify-section-template--15213254475967__main .page-width {
+  
+  .product__info-wrapper .product__title {
+  
+  	font-size: 3rem;
+  } 
+  
+  .product__description h1 {
+  font-size: 2rem;
+  
+  }
+
+  #shopify-section-template--15213254475967__main .page-width {
 	padding: 0 5rem 0 0;  
 }
   
