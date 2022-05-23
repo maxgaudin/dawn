@@ -145,22 +145,6 @@
         "custom_liquid": "<link href=\"\/\/cdn.shopify.com\/s\/files\/1\/0555\/1954\/3487\/t\/7\/assets\/component-price.css?v=532882773505955499\"\n    rel=\"stylesheet\" type=\"text\/css\" media=\"all\">\n<link href=\"\/\/cdn.shopify.com\/s\/files\/1\/0555\/1954\/3487\/t\/7\/assets\/component-product-grid.css?v=12131294005054645124\"\n    rel=\"stylesheet\" type=\"text\/css\" media=\"all\">\n\n<link rel=\"stylesheet\"\n    href=\"\/\/cdn.shopify.com\/s\/files\/1\/0555\/1954\/3487\/t\/7\/assets\/component-slider.css?v=8200683548770782072\" media=\"all\"\n    onload=\"this.media='all'\">\n<link rel=\"stylesheet\"\n    href=\"\/\/cdn.shopify.com\/s\/files\/1\/0555\/1954\/3487\/t\/7\/assets\/template-collection.css?v=11874559072417403192\"\n    media=\"all\" onload=\"this.media='all'\">\n\n<noscript>\n    <link href=\"\/\/cdn.shopify.com\/s\/files\/1\/0555\/1954\/3487\/t\/7\/assets\/component-slider.css?v=8200683548770782072\"\n        rel=\"stylesheet\" type=\"text\/css\" media=\"all\" \/><\/noscript>\n<noscript>\n    <link href=\"\/\/cdn.shopify.com\/s\/files\/1\/0555\/1954\/3487\/t\/7\/assets\/template-collection.css?v=11874559072417403192\"\n        rel=\"stylesheet\" type=\"text\/css\" media=\"all\" \/><\/noscript>\n<div class=\"collection page-width\">\n\n\n    <div class=\"first\">\n        <div class=\"head-shop\">\n            <div class=\"head-left\">\n                <h2>The Flower Shop & Smokeables<\/h2>\n                <p>ssleep + anxiety + less stress + pain support + mood booster + nervous system relaxer<\/p>\n            <\/div>\n\n            <div class=\"head-right\">\n                <a href=\"#\">Shop All Elixirs →<\/a>\n            <\/div>\n        <\/div>\n\n        <slider-component class=\"slider-mobile-gutter\">\n            <div class=\"inner\">\n                <ul class=\"grid grid--1-col product-grid grid--1-col-tablet grid--4-col-desktop negative-margin--small\" role=\"list\">\n\n                    {% for product in collections.cbd-smokes.products limit:3 %}\n\n                    <li class=\"grid__item\">\n                        <div class=\"card-wrapper\">\n                            <a href=\"{{ product.url }}\">\n                                <div class=\"card card--product card--outline\" tabindex=\"-1\">\n                                    <div class=\"card__inner\"><div>\n                                          <div class=\"media media--transparent media--square media--hover-effect\">\n                                            <img srcset=\"{{ product.featured_image | product_img_url: '345x' }}\" alt=\"Calming Hemp CBD Flower Prerolls (5 pack)\" loading=\"lazy\" class=\"motion-reduce\" width=\"1080\" height=\"1080\"><\/div>\n                                        <\/div><div class=\"card__badge\"><\/div>\n                                    <\/div>\n                                  <\/div>\n                                <!-- <img src=\"{{ product.featured_image | product_img_url: '345x' }}\"\n                                    alt=\"{{ product.title | escape  }}\" \/> -->\n                            <\/a>\n                            <div class=\"bottom\">\n                                <div class=\"h3 grid-view-item__title\"><span>{{ product.title }}<\/span><\/div>\n                                <div class=\"h4\"><span class=\"price\">{{ product.price | money }}<\/span><\/div>\n                                <p>Add balance and empower your wellness journey with our plant-based blend of full-spectrum hemp extract.<\/p>\n                                \n                                \n\n                                <div class=\"bottom-buttons\">\n                                    <button class=\"add-cart\"><a href=\"{{ product.url }}\">Add to cart<\/a><\/button>\n\n                                    <button class=\"learn\"><a href=\"{{ product.url }}\">Learn more<\/a><\/button>\n                                <\/div>\n                            <\/div>\n                            \n                        <\/div>\n\n                    <\/li>\n                    {% endfor %}\n                <\/ul>\n            <\/div>\n        <\/slider-component>\n\n        \n    <\/div>\n\n<\/div>\n<\/div>"
       }
     },
-    "featured_products": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured products",
-        "collection": "all",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": false
-      }
-    },
     "1636507255b8e6b169": {
       "type": "rich-text",
       "blocks": {
@@ -244,7 +228,6 @@
     "16384059088c95eb32",
     "1638396251f0ee1c29",
     "1653292428febe619f",
-    "featured_products",
     "1636507255b8e6b169",
     "1636507262ec37f197",
     "1638401368b8538f83"
