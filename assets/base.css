@@ -2769,14 +2769,21 @@ header {
     text-decoration: none;
   }
   
+  /* shop page middle section */
+  
 #shopify-section-template--15213255000255__16532941130a62232c {
- background: #FBF6ED;
+  border-top: 1px solid #FBF6ED;
+    border-bottom: 1px solid #FBF6ED;
+ 
 }
  
   
 #shopify-section-template--15213255000255__16532941130a62232c  h2 {
   color: #001D19; 
 }
+ #shopify-section-template--15213255000255__16532941130a62232c 
+  #DD5A37
+
   
   #shopify-section-template--15213254869183__1638396251f0ee1c29 .head-left, #shopify-section-template--15213254869183__1653292428febe619f .head-left {
   	color: #fff;
