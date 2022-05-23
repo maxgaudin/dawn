@@ -82,6 +82,41 @@
         "enable_sorting": true,
         "collapse_on_larger_devices": false
       }
+    },
+    "1653295264df87fc55": {
+      "type": "image-with-text",
+      "blocks": {
+        "16532952649787b6e9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shop the Flower Shop"
+          }
+        },
+        "16532952649787b6e9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A flower power emporium where we grow our hemp flowers with love, rainbows, unicorns and high vibrations in the rolling foothills of the Blue Ridge Mountains.<\/p>"
+          }
+        },
+        "16532952649787b6e9-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16532952649787b6e9-0",
+        "16532952649787b6e9-1",
+        "16532952649787b6e9-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/nug-one.png",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
@@ -90,6 +125,7 @@
     "1650920805db4f030b",
     "16532941130a62232c",
     "banner",
-    "product-grid"
+    "product-grid",
+    "1653295264df87fc55"
   ]
 }
