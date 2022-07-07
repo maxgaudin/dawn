@@ -3278,6 +3278,6 @@ header {
   }
   
   .flex-item {
-  	flex: flex-grow;
+  	flex: 2 1 auto;
   }
   
