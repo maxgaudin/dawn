@@ -3240,3 +3240,10 @@ header {
     padding: 0 5rem 5rem;
     }
   }
+
+  
+/* Remove bottom margin on .grid. I don't feel comfortable doing this but here we are :) */
+  
+  .grid {
+  	margin-bottom: 0;
+  }
