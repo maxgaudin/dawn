@@ -3054,7 +3054,7 @@ header {
   	padding-left: 1em;
   }
   
-  .smart-tabs-navigation-li, .smart-tabs-navigation-li-active {
+  .smart-tabs-navigation-li {
   	background: transparent !important;
     border: none !important;
     font-size: 1.4rem !important;
@@ -3062,6 +3062,10 @@ header {
     color: #fff;
     margin: 0 0 0 4em !important;
     padding: .2em 0 !important;
+  }
+  
+  .smart-tabs-navigation-li-active {
+  	margin: 0 0 0 4em !important;
   }
   
     
