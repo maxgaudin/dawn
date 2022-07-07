@@ -2337,6 +2337,11 @@ details-disclosure > details {
   ******************
   *****/
 
+p {
+	font-size: 1.45rem;
+  }  
+  
+  
 .footer-inner {
   background-image: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%);
 }
@@ -3257,3 +3262,5 @@ header {
   	padding-left: 1.5rem;
     padding-bottom: 2rem;
 }
+  
+  
