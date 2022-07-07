@@ -3277,4 +3277,7 @@ header {
     justify-content: flex-start
   }
   
+  .flex-item {
+  	flex: flex-grow;
+  }
   
