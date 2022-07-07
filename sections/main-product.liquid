@@ -158,7 +158,7 @@
                 </button>
               </quantity-input>
             </div>
-            </div>
+            
           {%- when 'popup' -%}
               <modal-opener class="product-popup-modal__opener no-js-hidden" data-modal="#PopupModal-{{ block.id }}" {{ block.shopify_attributes }}>
                 <button id="ProductPopup-{{ block.id }}" class="product-popup-modal__button link" type="button" aria-haspopup="dialog">{{ block.settings.text | default: block.settings.page.title }}</button>
@@ -318,7 +318,7 @@
                   </div>
                 {%- endform -%}
               </product-form>
-
+				</div>
               {{ 'component-pickup-availability.css' | asset_url | stylesheet_tag }}
 
               {%- assign pick_up_availabilities = product.selected_or_first_available_variant.store_availabilities | where: 'pick_up_enabled', true -%}
