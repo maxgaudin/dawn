@@ -3049,7 +3049,7 @@ header {
   	padding-left: 1em;
   }
   
-  .smart-tabs-navigation-li {
+  .smart-tabs-navigation-li, .smart-tabs-navigation-li-active {
   	background: transparent !important;
     border: none !important;
     font-size: 1.4rem !important;
