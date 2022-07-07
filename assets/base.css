@@ -2685,6 +2685,10 @@ mix-blend-mode: normal;
       color: white;
 }
   
+.header__menu-item:hover, .header__active-menu-item:hover, .header__icon:hover {
+      color: white;
+}
+  
 header {
 	background: #001D16; 
 }
