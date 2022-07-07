@@ -3070,7 +3070,7 @@ header {
     }
     
     .product__info-wrapper {
-    	padding-top: 4em;
+    	padding-top: 3em;
     }
     
     #shopify-section-template--15213254475967__1638758326907ae6a2 {
@@ -3247,3 +3247,13 @@ header {
   .grid {
   	margin-bottom: 0;
   }
+  
+  
+  
+/* Product page title */
+  
+  
+.product__info-wrapper .product__title {  
+  	padding-left: 1.5rem;
+    padding-bottom: 2rem;
+}
