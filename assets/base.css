@@ -3292,6 +3292,8 @@ header {
   position: relative;
 }
 
+/* CUSTOM FOOTER YAH HEARD MEH */
+
 .footer-top {
   display: flex;
   flex-direction: row;
@@ -3302,6 +3304,19 @@ header {
 }
 
 .footer-top-left {
+  flex-basis: 50%;
+}
+
+.footer-links {
+  display: flex;
+  flex-direction: row;
+}
+
+.first-footer, .second-footer {
+  flex-basis: 25;
+}
+
+.third-footer {
   flex-basis: 50%;
 }
   
