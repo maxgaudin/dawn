@@ -3291,4 +3291,9 @@ header {
   z-index: 300;
   position: relative;
 }
+
+.footer-top {
+  display: flex;
+  flex-direction: column;
+}
   
