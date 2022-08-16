@@ -3362,4 +3362,8 @@ background: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%);
   text-align: right;
 }
 
+.footer-top .white-squiggle {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
   
