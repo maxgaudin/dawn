@@ -3319,15 +3319,18 @@ header {
 
 .footer-links ul {
   list-style-type: none;
+  padding-left: 0;
 }
 
 .footer-links ul li a{
   font-family: Karla, sans-serif;
   color: #fff;
+  text-decoration: none;
+  font-size: 1.4rem;
 }
 
 .first-footer, .second-footer {
-  flex-basis: 25;
+  flex-basis: 25%;
 }
 
 .third-footer {
