@@ -3314,6 +3314,10 @@ background: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%);
   flex-basis: 50%;
 }
 
+.footer-top-left h2, .footer-top-left p {
+  color: #fff;
+}
+
 .footer-links {
   display: flex;
   flex-direction: row;
@@ -3346,7 +3350,7 @@ background: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%);
 
 .extra-text p {
   color: #fff;
-  font-size: 0.8rem;
+  font-size: 1.2rem;
 }
 
 .extra-left, .extra-right {
