@@ -3294,6 +3294,14 @@ header {
 
 .footer-top {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+}
+
+.footer-top-right {
+  flex-basis: 50%;
+}
+
+.footer-top-left {
+  flex-basis: 50%;
 }
   
