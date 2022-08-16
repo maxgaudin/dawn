@@ -3316,12 +3316,14 @@ background: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%);
   flex-direction: row;
 }
 
-.footer-top-right {
+.footer-top-left, .footer-top-right {
   flex-basis: 50%;
 }
 
-.footer-top-left {
-  flex-basis: 50%;
+@media screen and (max-width: 767px) {
+  .footer-top-left, .footer-top-right {
+    flex-basis: 100%;
+  }
 }
 
 .footer-top-left h2, .footer-top-left p {
