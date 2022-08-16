@@ -3393,4 +3393,11 @@ background: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%);
     margin-bottom: 2rem;
   }
 }
+
+/* home page as seen in on mobile */
+
+#shopify-section-template--15213254869183__16379067572919fb5a img {
+    max-width: 120px;
+    margin: 1em 0;
+}
   
