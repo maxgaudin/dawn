@@ -3294,6 +3294,10 @@ header {
 
 /* CUSTOM FOOTER YAH HEARD MEH */
 
+.footer-top {
+  padding: 2rem 4rem;
+}
+
 .footer-dosed {
   display: flex;
   flex-direction: row;
