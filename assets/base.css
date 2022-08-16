@@ -3395,9 +3395,17 @@ background: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%);
 }
 
 /* home page as seen in on mobile */
-
+@media screen and (max-width: 767px) {
 #shopify-section-template--15213254869183__16379067572919fb5a img {
     max-width: 120px;
     margin: 1em 0;
 }
-  
+}
+
+/* home page quiz on mobile */
+
+@media screen and (max-width: 767px) {
+#shopify-section-template--15213254869183__163650295081817c82 {
+  padding-top: 20px;
+}
+}
