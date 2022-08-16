@@ -3453,4 +3453,7 @@ background: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%);
 #shopify-section-template--15213254869183__1638396251f0ee1c29 .card-wrapper, #shopify-section-template--15213254869183__1653292428febe619f .grid__item {
   margin: 0 auto; 
 }
+#shopify-section-template--15213254869183__1653292428febe619f {
+  margin-top: 0 !important;
+}
 }
