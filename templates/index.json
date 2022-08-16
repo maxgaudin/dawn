@@ -220,7 +220,7 @@
     "1660684352a75e961d": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"footer-top\">\n    <div class=\"left\">\n    <h2>Get dosed in your inbox<\/h2>\n    <p>Get cannabis wellness tips, insider interviews, our farm updates and high vibe recipes straight to your inbox.<\/p>\n    <\/div>\n    <div class=\"right\"><div class=\"klaviyo-form-Wsje5Q\"><\/div>\n<\/div>"
+        "custom_liquid": "<div class=\"footer-top\">\n    <div class=\"footer-top-left\">\n    <h2>Get dosed in your inbox<\/h2>\n    <p>Get cannabis wellness tips, insider interviews, our farm updates and high vibe recipes straight to your inbox.<\/p>\n    <\/div>\n    <div class=\"footer-top-right\"><div class=\"klaviyo-form-Wsje5Q\"><\/div>\n<\/div>"
       }
     }
   },
