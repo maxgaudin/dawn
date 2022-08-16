@@ -3470,9 +3470,8 @@ background: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%);
   font-size: 2rem !important;
 }
 
-@media screen and (min-width: 750px) {
+@media screen and (min-width: 750px)
 .rich-text:not(.rich-text--full-width), .rich-text--full-width.color-background-1 {
-    margin-top: 1rem;
-    margin-bottom: 3rem;
-}
+    margin-top: 1rem !important;
+    margin-bottom: 3rem !important;
 }
