@@ -3312,6 +3312,20 @@ header {
   flex-direction: row;
 }
 
+.footer-links h4 {
+  font-family: Karla, sans-serif;
+  color: #fff;
+}
+
+.footer-links ul {
+  list-style-type: none;
+}
+
+.footer-links ul li a{
+  font-family: Karla, sans-serif;
+  color: #fff;
+}
+
 .first-footer, .second-footer {
   flex-basis: 25;
 }
