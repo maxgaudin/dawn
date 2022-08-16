@@ -3413,3 +3413,26 @@ background: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%);
   margin: 0 auto;
 }
 }
+
+/* home page bundles on mobile*/ 
+
+@media screen and (max-width: 767px) {
+#Banner-template--15213254869183__1636504148a9dd3f5f .banner__box .banner__text {
+   font-size: 1.3rem; 
+}
+
+  #Banner-template--15213254869183__1636504148a9dd3f5f .banner__box h2 {
+    color: black;
+  }
+
+#Banner-template--15213254869183__1636504148a9dd3f5f .banner__box {
+    margin: 0 auto;
+    max-width: 40rem;
+}
+}
+
+@media screen and (max-width: 749px) {
+.banner--large:not(.banner--mobile-bottom):not(.banner--adapt) .banner__content {
+  min-height: 59rem;
+}
+}
