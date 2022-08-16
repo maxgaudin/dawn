@@ -3279,4 +3279,11 @@ header {
   .flex-item {
   	flex-grow: 1;
   }
+
+/* Footer */
+
+.shopify-section-footer {
+  z-index: 500;
+  position: relative;
+}
   
