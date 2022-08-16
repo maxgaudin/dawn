@@ -3378,4 +3378,12 @@ background: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%);
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
+
+/* Home page header mobile view */ 
+
+@media screen and (max-width: 767px) {
+#shopify-section-template--15213254869183__16365027938cedb013 {
+  margin-bottom: 3rem;
+}
+}
   
