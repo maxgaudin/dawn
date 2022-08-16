@@ -3292,7 +3292,17 @@ header {
   position: relative;
 }
 
+/* DAT FOOTER SQUIGGLE WIGGLE */
+
+#shopify-section-template--15213254869183__1660686893b50442fd {
+    margin-bottom: -10px !important;
+    margin-top: -20px;
+    z-index: 300;
+    position: relative;
+}
+
 /* CUSTOM FOOTER YAH HEARD MEH */
+
 #shopify-section-template--15213254869183__1660684352a75e961d {
 background: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%);
 }
