@@ -3447,10 +3447,10 @@ background: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%);
 /* home page collection on mobile */
 
 @media screen and (max-width: 749px) {
-  #shopify-section-template--15213254869183__1638396251f0ee1c29 .grid__item, #shopify-section-template--15213254869183__1653292428febe619f .grid__item{
+  #shopify-section-template--15213254869183__1638396251f0ee1c29 .grid__item, #shopify-section-template--15213254869183__1653292428febe619f .grid__item {
     margin: 1rem;
   }
-#shopify-section-template--15213254869183__1638396251f0ee1c29 .card-wrapper, #shopify-section-template--15213254869183__1653292428febe619f .grid__item {
+#shopify-section-template--15213254869183__1638396251f0ee1c29 .card-wrapper, #shopify-section-template--15213254869183__1653292428febe619f .card-wrapper {
   margin: 0 auto; 
 }
 #shopify-section-template--15213254869183__1653292428febe619f {
