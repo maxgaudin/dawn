@@ -3344,12 +3344,18 @@ background: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%);
   flex-basis: 50%;
 }
 
-.extra-text {
+.extra-text p {
   color: #fff;
+  font-size: 0.8rem;
 }
 
 .extra-left, .extra-right {
   flex-basis: 50%
+}
+
+.extra-right p {
+  float: right;
+  text-align: right;
 }
 
   
