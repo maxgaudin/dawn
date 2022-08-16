@@ -3282,7 +3282,7 @@ header {
 
 /* Footer */
 
-.shopify-section-footer {
+#shopify-section-footer {
   z-index: 500;
   position: relative;
 }
