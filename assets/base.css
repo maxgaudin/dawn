@@ -3280,10 +3280,15 @@ header {
   	flex-grow: 1;
   }
 
-/* Footer */
+/* Footer squiggle stacking */
 
 #shopify-section-footer {
   z-index: 500;
+  position: relative;
+}
+
+#shopify-section-template--15213254869183__1636507262ec37f197 {
+  z-index: 300;
   position: relative;
 }
   
