@@ -3383,7 +3383,11 @@ background: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%);
 
 @media screen and (max-width: 767px) {
 #shopify-section-template--15213254869183__16365027938cedb013 {
-  margin-bottom: 3rem;
+  margin-bottom: 4rem;
+  text-align: center;
+}
+#shopify-section-template--15213254869183__16365027938cedb013 .button {
+  margin: 0 auto;
 }
 }
   
