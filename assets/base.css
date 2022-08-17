@@ -2903,7 +2903,7 @@ header {
   border: 1px solid #FBF6ED;
 border-radius: 200px;
   background: transparent;
-  opacity: 0;
+  opacity: 1;
   box-shadow: none;
 }
   
