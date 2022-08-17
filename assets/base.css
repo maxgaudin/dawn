@@ -3066,6 +3066,9 @@ header {
   .smart-tabs-navigation-links {
   	padding-left: 1em;
   }
+  .smart-tabs-navigation-links:first-child {
+    margin-left: 0 !important;
+  }
   
   .smart-tabs-navigation-li {
   	background: transparent !important;
