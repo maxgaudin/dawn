@@ -3534,7 +3534,7 @@ background: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%) !i
 }
 
 .product__info-wrapper .product-form__input {
-  max-width: 18rem;
+  max-width: 26rem;
 }
 
 .smart-tabs-content-block p {
@@ -3736,4 +3736,12 @@ padding: 0 15px 15px 15px;
 #shopify-section-template--15213254475967__16607637658ad2c5b7 {
   margin-bottom: -2rem;
   margin-top: -2rem;
+}
+
+.product__info-wrapper variant-radios {
+  float:right;
+}
+
+.product__info-wrapper variant-radios .form__label {
+  text-transform: uppercase;
 }
