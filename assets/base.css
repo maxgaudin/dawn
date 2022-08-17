@@ -3610,4 +3610,14 @@ padding: 0 15px 15px 15px;
   align-content: center; 
   align-items: center;
 }
+
+@media screen and (max-width: 749px) {
+  .concious svg {
+    width: 50px !important;
+    height: 50px !important;
+}
+  .concious li {
+    font-size: 1.3rem;
+  }
+}
   
