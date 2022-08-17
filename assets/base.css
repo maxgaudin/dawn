@@ -3586,4 +3586,13 @@ padding: 0 15px 15px 15px;
   background: #fbf6ed;
   text-align: center; 
   padding: 4em 0;
+
+
+.concious svg {
+    width: 80px;
+    height: 80px;
+}
+
+.concious p {
+  margin-bottom: 3rem;
 }
