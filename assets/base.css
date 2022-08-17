@@ -3476,3 +3476,7 @@ background: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%) !i
     margin-bottom: 3rem !important;
 }
 }
+
+.smart-tabs-wrapper {
+  margin: 0 !important; 
+}
