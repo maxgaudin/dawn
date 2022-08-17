@@ -3523,3 +3523,11 @@ background: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%) !i
 .smart-tabs-content-block {
 padding: 0 15px 15px 15px;
 }
+
+.smart-tabs-branding {
+  display: none;
+}
+
+/* Make product description container not sticky */
+
+.product__info-container--sticky
