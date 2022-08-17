@@ -36,7 +36,7 @@
     "166077216000ae4e9e": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<p>We’re a Conscious Company\nWalking our Talk.<\/p>"
+        "custom_liquid": "<div style=\"display: flex; flex-direction: row;\">\n<div>\n<h1>How we started<\/h1>\n\n<p>Laura launched Soul Addict CBD in response to her own struggles dealing with clinically diagnosed anxiety and depression episodes since her early teen years.\n\n    After finding CBD in 2016 helped her so much and seeing the power in ‘Cannabis-as-medicine’- she knew there was a better way and quickly saw how access to plant medicine can drastically change our journey to healing and our relationship to our mental health.<\/p>\n<\/div>\n<div><img src=\"..\/assets\/laura-block.svg\" alt=\"\"><\/div>\n<\/div>"
       }
     },
     "main": {
