@@ -3692,8 +3692,7 @@ padding: 0 15px 15px 15px;
 
 .tab-customize {
   overflow: hidden;
-  border: 1px solid #ccc;
-  background-color: #f1f1f1;
+
 }
 .tab-customize button {
   background-color: inherit;
@@ -3701,19 +3700,23 @@ padding: 0 15px 15px 15px;
   border: none;
   outline: none;
   cursor: pointer;
-  padding: 14px 16px;
+  margin: 14px 16px;
   transition: 0.3s;
+  color: #fff;
 }
 .tab-customize button:hover {
   background-color: #ddd;
 }
 .tab-customize button.active {
-  background-color: #ccc;
+  color: #fff;
+  border-bottom: 1px solid #fff;
 }
 .tabcontent-cus {
   display: none;
-  padding: 6px 12px;
-  border: 1px solid #ccc;
-  border-top: none;
+}
+
+.product__description {
+  margin-left: 2rem;
+    padding-right: 2rem;
 }
 
