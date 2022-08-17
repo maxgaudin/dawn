@@ -3751,6 +3751,6 @@ padding: 0 15px 15px 15px;
 }
 
 .product-form__input input[type=radio]+label {
-  color: #fff;
+  color: #fff !important;
   border: .1rem solid #fff !important;
 }
