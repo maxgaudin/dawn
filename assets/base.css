@@ -3548,6 +3548,10 @@ padding: 0 15px 15px 15px;
   margin-right: 0.8rem;
 }
 
+.slider-button svg {
+  color: #fff;
+}
+
 .slider-button[disabled] .icon {
     color: #fff;
   }
