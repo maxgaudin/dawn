@@ -2903,6 +2903,8 @@ header {
   border: 1px solid #FBF6ED;
 border-radius: 200px;
   background: transparent;
+  opacity: 0;
+  box-shadow: none;
 }
   
   .first .card-wrapper {
