@@ -17,6 +17,7 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Welcome to our store",
               "color_scheme": "background-1",
@@ -35,7 +36,7 @@
         "settings": {
           "color_scheme": "background-1",
           "logo": "shopify:\/\/shop_images\/SA_Brand_Logo_v3-02.png",
-          "logo_width": 70,
+          "logo_width": 60,
           "logo_position": "middle-left",
           "menu": "main-menu",
           "show_line_separator": true,
