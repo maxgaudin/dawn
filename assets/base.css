@@ -3528,6 +3528,26 @@ padding: 0 15px 15px 15px;
   display: none;
 }
 
-/* Make product description container not sticky */
+/* Image slide controls on product page */
 
-.product__info-container--sticky
+.slider-counter {
+  display: none;
+}
+
+.slider-buttons {
+    justify-content: end;
+    margin-top: -7rem;
+    z-index: 100;
+    position: relative;
+    margin-right: 1rem;
+    color: white;
+}
+
+.slider-button {
+  background: #005348;
+  margin-right: 0.8rem;
+}
+
+.slider-button[disabled] .icon {
+    color: #fff;
+  }
