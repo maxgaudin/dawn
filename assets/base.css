@@ -3616,6 +3616,9 @@ padding: 0 15px 15px 15px;
     width: 50px !important;
     height: 50px !important;
 }
+  .concious ul {
+    gap: 15px;
+  }
   .concious li {
     font-size: 1.3rem;
   }
