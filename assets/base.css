@@ -3081,7 +3081,7 @@ header {
   }
   
   .smart-tabs-navigation-li-active {
-  	margin: 0 4em 0 0 !important;
+  	/* margin: 0 4em 0 0 !important; */
   }
   
     
