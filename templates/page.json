@@ -36,7 +36,7 @@
     "166077216000ae4e9e": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"display: flex; flex-direction: row;\n  justify-content: space-between;\n  align-items: stretch;\">\n<div>\n<h1>How we started<\/h1>\n\n<p>Laura launched Soul Addict CBD in response to her own struggles dealing with clinically diagnosed anxiety and depression episodes since her early teen years.\n\n    After finding CBD in 2016 helped her so much and seeing the power in ‘Cannabis-as-medicine’- she knew there was a better way and quickly saw how access to plant medicine can drastically change our journey to healing and our relationship to our mental health.<\/p>\n<\/div>\n<div><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/1954\/3487\/t\/7\/assets\/image-laura.png?v=1660773223\" alt=\"\"><\/div>\n<\/div>"
+        "custom_liquid": "<div style=\"display: flex; flex-direction: row;\n  justify-content: space-between;\n  align-items: stretch;\">\n<div>\n<h1>How we started<\/h1>\n\n<p>Laura launched Soul Addict CBD in response to her own struggles dealing with clinically diagnosed anxiety and depression episodes since her early teen years.\n\n    After finding CBD in 2016 helped her so much and seeing the power in ‘Cannabis-as-medicine’- she knew there was a better way and quickly saw how access to plant medicine can drastically change our journey to healing and our relationship to our mental health.<\/p>\n<\/div>\n<div><img style=\"max-width: 400px;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/1954\/3487\/t\/7\/assets\/image-laura.png?v=1660773223\" alt=\"\"><\/div>\n<\/div>"
       }
     },
     "main": {
