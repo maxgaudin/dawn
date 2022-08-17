@@ -3744,7 +3744,7 @@ padding: 0 15px 15px 15px;
 }
 
 .product__info-wrapper variant-radios .form__label {
-  text-transform: uppercase
+  text-transform: uppercase;
   padding-top: 1.3rem;
   padding-right: 1.3rem;
 }
@@ -3760,5 +3760,5 @@ padding: 0 15px 15px 15px;
 }
 
 .price-box {
-  margin-top: 2rem;
+  margin-top: 2rem !important;
 }
