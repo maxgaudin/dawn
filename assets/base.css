@@ -3528,6 +3528,10 @@ padding: 0 15px 15px 15px;
   display: none;
 }
 
+.product-price {
+  justify-content: end;
+}
+
 /* Image slide controls on product page */
 
 .slider-counter {
