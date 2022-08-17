@@ -106,6 +106,12 @@
       "settings": {
         "custom_liquid": "<div style=\"background: linear-gradient(180deg, #EA8392 0%, #F68C4B 46.99%, #E27E63 100%);padding: 3em 0;\">\n<h1 style=\"color: #fff;text-align: center;\">Have Questions?<\/h1>\n<ul class=\"grid grid grid grid--1-col product-grid grid--2-col-tablet grid--4-col-desktop negative-margin--small\">\n<li class=\"grid__item\" style=\"background: #005348; color: #fff; margin: 2em 3em; padding: 1em 0 1em 2em;\">\n    <p>EMAIL US<\/p>\n    <h2 style=\"color:white;\">hello@souladdict.co<\/h2>\n    <p>We’ll help answer any questions you have<\/p>\n<\/li>\n<li class=\"grid__item\" style=\"background: #FBF6ED; margin: 2em 3em; padding: 1em 0 1em 2em;\">\n    <p style=\"color: #DD5A37;\">LEARN MORE<\/p>\n    <h2>Read The Dosing Guide →<\/h2>\n    <p style=\"color: #DD5A37;\">We’ll help answer any questions you have<\/p>\n<\/li>\n<\/ul>\n<\/div>"
       }
+    },
+    "16607637658ad2c5b7": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 1920 70\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M1920 0.370873C1842.72 -2.79076 1836 15.5015 1784.25 16.4048C1744.6 16.4048 1715.7 0.596703 1670 0.596703C1632.37 0.596703 1600.78 16.4048 1555.76 16.4048C1512.75 16.4048 1508.04 1.04836 1444.87 0.596703V0.370873C1367.59 -2.79076 1360.87 15.5015 1309.12 16.4048C1269.47 16.4048 1240.57 0.596703 1194.88 0.596703C1157.24 0.596703 1125.66 16.4048 1080.63 16.4048C1037.62 16.4048 1032.92 1.04836 969.744 0.596703V0.370873C892.461 -2.79076 885.74 15.5015 833.994 16.4048C794.344 16.4048 765.446 0.596703 719.748 0.596703C682.114 0.596703 650.529 16.4048 605.502 16.4048C562.492 16.4048 557.788 1.04836 494.617 0.596703V0.370873C417.333 -2.79076 411.285 15.2757 359.538 16.179C319.888 16.179 290.991 0.370873 245.292 0.370873C207.658 0.370873 176.073 16.179 131.047 16.179C89.3805 16.4048 65.1873 -4.37157 0 1.2742V69.9267C605.502 69.9267 1315.17 69.9267 1920 69.9267V0.370873Z\" fill=\"#005348\"\/>\n<\/svg>"
+      }
     }
   },
   "order": [
@@ -115,6 +121,7 @@
     "163884218207069564",
     "1638755374720bd277",
     "product-recommendations",
-    "1638758326907ae6a2"
+    "1638758326907ae6a2",
+    "16607637658ad2c5b7"
   ]
 }
