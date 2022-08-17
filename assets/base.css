@@ -3623,7 +3623,8 @@ padding: 0 15px 15px 15px;
     font-size: 1.3rem;
   }
 }
-
+@media screen and (max-width: 749px) {
 .product__media-wrapper {
   padding-bottom: 0;
+}
 }
