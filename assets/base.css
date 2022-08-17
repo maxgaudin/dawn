@@ -3745,3 +3745,7 @@ padding: 0 15px 15px 15px;
 .product__info-wrapper variant-radios .form__label {
   text-transform: uppercase;
 }
+
+.product-form__input input[type=radio]:checked+label {
+  background: #fff;
+}
