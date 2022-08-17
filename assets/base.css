@@ -3508,3 +3508,7 @@ background: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%) !i
   margin-left: 2rem !important;
   border-bottom: 1px solid #fff !important;
 }
+
+.product__info-wrapper .product-form__input {
+  max-width: 18rem;
+}
