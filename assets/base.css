@@ -3687,3 +3687,33 @@ padding: 0 15px 15px 15px;
   margin-bottom: 0;
 }
 
+/* Custom custom tabs https://happypoints.io/blog/add-tabs-to-shopify-product-page-without-app-c2-stt-57/ */
+
+
+.tab-customize {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+.tab-customize button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+.tab-customize button:hover {
+  background-color: #ddd;
+}
+.tab-customize button.active {
+  background-color: #ccc;
+}
+.tabcontent-cus {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+
