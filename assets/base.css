@@ -3546,20 +3546,6 @@ padding: 0 15px 15px 15px;
   margin: 0.7rem 2.5rem 2.5rem 2.5rem !important;
 }
 
-.product__media {
-  /* Vector */
-
-position: absolute;
-width: 857px;
-height: 43px;
-left: 0px;
-top: 857px;
-
-/* secondary-velvet */
-background: #89414D;
-transform: rotate(-90deg);
-
-}
 
 /* Image slide controls on product page */
 
