@@ -5,7 +5,7 @@
     "colors_accent_2": "#334FB4",
     "colors_text": "#121212",
     "colors_outline_button_labels": "#121212",
-    "colors_background_1": "#fbf6ed",
+    "colors_background_1": "#a43c23",
     "colors_background_2": "#F3F3F3",
     "type_header_font": "americana_n7",
     "type_body_font": "karla_n4",
@@ -47,7 +47,6 @@
         "blocks": {
           "footer-0": {
             "type": "link_list",
-            "disabled": true,
             "settings": {
               "heading": "Quick links",
               "menu": "footer"
@@ -55,7 +54,6 @@
           },
           "footer-1": {
             "type": "text",
-            "disabled": true,
             "settings": {
               "heading": "Heading",
               "subtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
@@ -67,27 +65,19 @@
           "footer-1"
         ],
         "settings": {
-          "color_scheme": "accent-1",
-          "newsletter_enable": false,
+          "color_scheme": "background-1",
+          "newsletter_enable": true,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": false,
-          "enable_country_selector": false,
-          "enable_language_selector": false,
-          "payment_enable": false
+          "enable_country_selector": true,
+          "enable_language_selector": true,
+          "payment_enable": true
         }
       }
     },
     "content_for_index": [
 
-    ],
-    "blocks": {
-      "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    }
+    ]
   },
   "presets": {
     "Default": {
