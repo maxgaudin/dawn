@@ -3575,3 +3575,7 @@ padding: 0 15px 15px 15px;
 .slider-button[disabled] .icon {
     color: #fff;
   }
+
+.product .shopify-section {
+  margin-top 0;
+}
