@@ -2715,7 +2715,7 @@ header {
   }
   
   .collection .card-wrapper, .product-recommendations .card-wrapper {
-  background: #fff;
+  background: linear-gradient(180deg, #FBF6ED 25.96%, #FFFFFF 100%);
   border-radius: 60px 60px 0 0;
   }
   
