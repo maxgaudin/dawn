@@ -2595,9 +2595,9 @@ mix-blend-mode: normal;
 }
   
   
-  .product__info-wrapper .product__title {
+.product__info-wrapper .product__title {
   
-  	font-size: 3rem;
+  	font-size: 2.5rem;
   } 
   
   .product__description h1 {
