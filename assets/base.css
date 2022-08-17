@@ -2600,7 +2600,10 @@ mix-blend-mode: normal;
     padding-bottom: 2rem;
     font-size: 1.6rem;
 }
-  
+
+.product-squiggle {
+  padding: 0 1.6rem;
+}
   
 .product__info-wrapper .product__title {
   
