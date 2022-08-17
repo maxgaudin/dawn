@@ -41,12 +41,6 @@
           "settings": {
             "show_dynamic_checkout": false
           }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
@@ -56,8 +50,7 @@
         "variant_picker",
         "quantity_selector",
         "price",
-        "buy_buttons",
-        "share"
+        "buy_buttons"
       ],
       "settings": {
         "enable_sticky_info": false,
