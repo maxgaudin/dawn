@@ -3489,6 +3489,10 @@ background: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%) !i
     padding-top: 1.4rem;
 }
 
+.product-form__input .form__label {
+  float: left;
+}
+
 .product-form__quantity {
   border-bottom: 1px solid #fff;
 }
