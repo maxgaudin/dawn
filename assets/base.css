@@ -3623,4 +3623,7 @@ padding: 0 15px 15px 15px;
     font-size: 1.3rem;
   }
 }
-  
+
+.product__media-wrapper {
+  padding-bottom: 0;
+}
