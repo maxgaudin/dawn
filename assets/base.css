@@ -3520,3 +3520,6 @@ background: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%) !i
 .product-form__quantity .quantity {
   border: none;
 }
+.smart-tabs-content-block {
+padding: 0 15px 15px 15px;
+}
