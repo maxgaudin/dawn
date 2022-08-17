@@ -3512,3 +3512,11 @@ background: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%) !i
 .product__info-wrapper .product-form__input {
   max-width: 18rem;
 }
+
+.smart-tabs-content-block p {
+  margin-bottom: 0;
+}
+
+.product-form__quantity .quantity {
+  border: none;
+}
