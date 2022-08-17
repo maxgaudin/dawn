@@ -3634,6 +3634,8 @@ padding: 0 15px 15px 15px;
 .how-to {
   background:#fbf6ed;
   color: #001D19;
-
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
