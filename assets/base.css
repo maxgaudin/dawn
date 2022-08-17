@@ -3635,12 +3635,12 @@ padding: 0 15px 15px 15px;
   background:#fbf6ed;
   color: #001D19;
   display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .how-to div {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+  
     flex: 1;
     padding: 5rem 5rem 3rem 5rem;
 }
