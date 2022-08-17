@@ -3692,7 +3692,7 @@ padding: 0 15px 15px 15px;
 
 .tab-customize {
   overflow: hidden;
-
+  margin-bottom: 2rem;
 }
 .tab-customize button {
   background-color: inherit;
@@ -3713,7 +3713,7 @@ padding: 0 15px 15px 15px;
 }
 .tab-customize button.active {
   color: #fff;
-  border-bottom: 1px solid #fff;
+  border-bottom: 2px solid #fff;
 }
 .tabcontent-cus {
   display: none;
