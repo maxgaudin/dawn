@@ -3640,6 +3640,14 @@ padding: 0 15px 15px 15px;
 }
 
 .how-to div {
-  flex-basis: 50%
+    flex-basis: 50%;
+    padding: 5rem 5rem 3rem 5rem;
 }
+
+@media screen and (max-width: 749px) {
+  .how-to div {
+  flex-basis: 100%;
+  }
+}
+
 
