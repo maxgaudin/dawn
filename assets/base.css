@@ -3741,6 +3741,9 @@ padding: 0 15px 15px 15px;
 .product__info-wrapper variant-radios {
   float:right;
   margin-bottom: 0 !important;
+ 
+    margin-top: 0;
+    margin-right: 4rem;
 }
 
 .product__info-wrapper variant-radios .form__label {
