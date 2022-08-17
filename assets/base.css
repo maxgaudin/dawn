@@ -3774,6 +3774,12 @@ padding: 0 15px 15px 15px;
   padding: 8rem 26rem;
 }
 
+@media screen and (max-width: 749px) {
+#shopify-section-template--15213254672575__1660768849486f1ebd {
+  padding: 3rem;
+}
+}
+
 #shopify-section-template--15213254672575__1660768849486f1ebd p {
   color: #fff;
 }
