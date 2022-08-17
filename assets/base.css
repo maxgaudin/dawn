@@ -3706,6 +3706,7 @@ padding: 0 15px 15px 15px;
     font-size: 1.5rem;
     padding: 0 0 0.5rem 0;
     color: #fff;
+    text-transform: uppercase;
 }
 .tab-customize button:hover {
   background-color: #ddd;
