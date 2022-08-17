@@ -3639,3 +3639,7 @@ padding: 0 15px 15px 15px;
   flex-wrap: wrap;
 }
 
+.how-to div {
+  flex-basis: 50%
+}
+
