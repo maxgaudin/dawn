@@ -3747,5 +3747,10 @@ padding: 0 15px 15px 15px;
 }
 
 .product-form__input input[type=radio]:checked+label {
-  background: #fff;
+  background-color: #fff !important;
+}
+
+.product-form__input input[type=radio]+label {
+  color: #fff;
+  border: .1rem solid #fff !important;
 }
