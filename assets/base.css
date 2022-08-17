@@ -3543,7 +3543,7 @@ padding: 0 15px 15px 15px;
 }
 
 .product__info-container .product-form {
-  margin: 0.7rem 2.5rem 2.5rem 2.5rem;
+  margin: 0.7rem 2.5rem 2.5rem 2.5rem !important;
 }
 
 /* Image slide controls on product page */
