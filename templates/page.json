@@ -27,6 +27,12 @@
         "layout": "image_first"
       }
     },
+    "1660768849486f1ebd": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<p>Laura launched Soul Addict CBD in response to her own struggles dealing with clinically diagnosed anxiety and depression episodes since her early teen years.<\/p>\n\n<p>After finding CBD in 2016 helped her so much and seeing the power in ‘Cannabis-as-medicine’- she knew there was a better way and quickly saw how access to plant medicine can drastically change our journey to healing and our relationship to our mental health.<\/p>"
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -53,19 +59,13 @@
       "settings": {
         "custom_liquid": "<div style=\"background: linear-gradient(180deg, #EA8392 0%, #F68C4B 46.99%, #E27E63 100%);padding: 3em 0;\">\n<h1 style=\"color: #fff;text-align: center;\">Have Questions?<\/h1>\n<ul class=\"grid grid grid grid--1-col product-grid grid--2-col-tablet grid--4-col-desktop negative-margin--small\">\n<li class=\"grid__item\" style=\"background: #005348; color: #fff; margin: 2em 3em; padding: 1em 0 1em 2em;\">\n    <p>EMAIL US<\/p>\n    <h2 style=\"color:white;\">hello@souladdict.co<\/h2>\n    <p>We’ll help answer any questions you have<\/p>\n<\/li>\n<li class=\"grid__item\" style=\"background: #FBF6ED; margin: 2em 3em; padding: 1em 0 1em 2em;\">\n    <p style=\"color: #DD5A37;\">LEARN MORE<\/p>\n    <h2>Read The Dosing Guide →<\/h2>\n    <p style=\"color: #DD5A37;\">We’ll help answer any questions you have<\/p>\n<\/li>\n<\/ul>\n<\/div>"
       }
-    },
-    "1660768849486f1ebd": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<p>Laura launched Soul Addict CBD in response to her own struggles dealing with clinically diagnosed anxiety and depression episodes since her early teen years.<\/p>\n\n<p>After finding CBD in 2016 helped her so much and seeing the power in ‘Cannabis-as-medicine’- she knew there was a better way and quickly saw how access to plant medicine can drastically change our journey to healing and our relationship to our mental health.<\/p>"
-      }
     }
   },
   "order": [
     "16388853908bf357ff",
+    "1660768849486f1ebd",
     "main",
     "16388848264da2ef22",
-    "163888504175e1d571",
-    "1660768849486f1ebd"
+    "163888504175e1d571"
   ]
 }
