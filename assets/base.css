@@ -3532,6 +3532,10 @@ padding: 0 15px 15px 15px;
   justify-content: end;
 }
 
+.product__info-container .product-form {
+  margin: 0.7rem 2.5rem 2.5rem 2.5rem;
+}
+
 /* Image slide controls on product page */
 
 .slider-counter {
