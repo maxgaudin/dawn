@@ -3716,7 +3716,7 @@ padding: 0 15px 15px 15px;
 }
 
 .product__description {
-  margin-left: 2rem;
+  margin-left: 2rem !important;
     padding-right: 2rem;
 }
 
