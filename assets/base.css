@@ -3777,3 +3777,10 @@ padding: 0 15px 15px 15px;
 #shopify-section-template--15213254672575__1660768849486f1ebd p {
   color: #fff;
 }
+
+#shopify-section-template--15213254672575__166077216000ae4e9e {
+  background-image: url("../assets/laura-block.svg");
+  background-size: cover;
+  margin-bottom: 0 !important;
+  padding: 8rem 26rem;
+}
