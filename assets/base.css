@@ -2593,6 +2593,13 @@ mix-blend-mode: normal;
 .product__info-wrapper, .product__info-wrapper .product__title, .product__info-wrapper .price-item {
 	color: #FBF6ED;
 }
+
+.product__info-wrapper .subtitle {
+    color: #FBF6ED;
+    padding-left: 1.6rem;
+    padding-bottom: 2rem;
+    font-size: 1.6rem;
+}
   
   
 .product__info-wrapper .product__title {
