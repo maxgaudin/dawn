@@ -3696,13 +3696,16 @@ padding: 0 15px 15px 15px;
 }
 .tab-customize button {
   background-color: inherit;
-  float: left;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  margin: 14px 16px;
-  transition: 0.3s;
-  color: #fff;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    margin: 0 3rem 0 0;
+    transition: 0.3s;
+    font-family: 'Karla';
+    font-size: 1.5rem;
+    padding: 0 0 0.5rem 0;
+    color: #fff;
 }
 .tab-customize button:hover {
   background-color: #ddd;
