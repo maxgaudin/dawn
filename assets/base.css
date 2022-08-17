@@ -3505,6 +3505,6 @@ background: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%) !i
 }
 
 .product-form__quantity {
-  padding-left: 2rem !important;
+  margin-left: 2rem !important;
   border-bottom: 1px solid #fff !important;
 }
