@@ -3652,6 +3652,9 @@ padding: 0 15px 15px 15px;
   .how-to div {
     padding: 2rem 3rem 0.5rem 3rem;
   }
+  .spaced-section {
+    margin-top: 0;
+  }
 }
 
 
