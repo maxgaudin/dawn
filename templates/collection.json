@@ -41,6 +41,7 @@
     },
     "1650920805db4f030b": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "The Favorites",
         "collection": "featured",
