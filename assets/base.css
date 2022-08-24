@@ -3489,6 +3489,9 @@ background: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%) !i
 #shopify-section-template--15213254869183__16365027938cedb013 h2 {
   font-size: 5rem !important;
 }
+#shopify-section-template--15213254869183__16365027938cedb013 {
+font-size: 1.8rem;
+}
 
 @media screen and (min-width: 750px) {
 .rich-text:not(.rich-text--full-width), .rich-text--full-width.color-background-1 {
