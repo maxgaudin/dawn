@@ -2658,11 +2658,11 @@ mix-blend-mode: normal;
     position: relative;
   }
   
-#Banner-template--15213254869183__1636504148a9dd3f5f .banner__content {
+#Banner-template--15213254869183__1636504148a9dd3f5f .banner__content, #Banner-template--15213254869183__1636507262ec37f197 .banner__content {
 	justify-content: right;
 }
   
-#Banner-template--15213254869183__1636504148a9dd3f5f  .banner__box {
+#Banner-template--15213254869183__1636504148a9dd3f5f  .banner__box, #Banner-template--15213254869183__1636507262ec37f197 .banner__box {
 	background: #FBF6ED;
   	text-align: left;
   	padding: 0;
@@ -2670,7 +2670,7 @@ mix-blend-mode: normal;
     margin-right: 12rem;
 }
   
-#Banner-template--15213254869183__1636504148a9dd3f5f  .banner__box h2 {
+#Banner-template--15213254869183__1636504148a9dd3f5f  .banner__box h2, ##Banner-template--15213254869183__1636507262ec37f197 .banner__box h2 {
   font-family: Karla;
   font-size: 1em;
   text-transform: uppercase; 
@@ -2678,7 +2678,7 @@ mix-blend-mode: normal;
   padding-left: 40px;
 }
   
-#Banner-template--15213254869183__1636504148a9dd3f5f  .banner__box .banner__text {
+#Banner-template--15213254869183__1636504148a9dd3f5f  .banner__box .banner__text, #Banner-template--15213254869183__1636507262ec37f197 .banner__box .banner__text {
 	font-family: Americana;
   	text-align: left;
   	padding-left: 40px;
@@ -2686,7 +2686,7 @@ mix-blend-mode: normal;
   	font-size: 1.6em;
 }
   
-#Banner-template--15213254869183__1636504148a9dd3f5f  .banner__box .button {
+#Banner-template--15213254869183__1636504148a9dd3f5f  .banner__box .button, #Banner-template--15213254869183__1636507262ec37f197 .banner__box .button {
 	background: #DD5A37;
     box-shadow: none;
     opacity: 1;
