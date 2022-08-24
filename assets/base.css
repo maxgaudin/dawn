@@ -3792,6 +3792,10 @@ padding: 0 15px 15px 15px;
   background: linear-gradient(180deg, #EFD5C7 0%, #A0A9F9 35.76%, #7AB0EF 67.01%, #7BD0D8 100%);
 }
 
+#shopify-section-template--15213254672575__1661379351a05ceb8d h1, #shopify-section-template--15213254672575__1661379351a05ceb8d p {
+  color: #fff;
+}
+
 @media screen and (max-width: 749px) {
 #shopify-section-template--15213254672575__1660768849486f1ebd {
   padding: 3rem;
