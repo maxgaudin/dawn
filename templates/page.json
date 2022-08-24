@@ -41,23 +41,8 @@
     },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
-      }
-    },
-    "16388848264da2ef22": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Our Hemp Flowers",
-        "collection": "cbd-smokes",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": false
       }
     },
     "163888504175e1d571": {
@@ -72,7 +57,6 @@
     "1660768849486f1ebd",
     "166077216000ae4e9e",
     "main",
-    "16388848264da2ef22",
     "163888504175e1d571"
   ]
 }
