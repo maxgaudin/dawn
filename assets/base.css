@@ -3203,6 +3203,10 @@ border-radius: 200px;
    #shopify-section-template--15272828403903__1639073918ac05dd6a .button {
   	color: #DD5A37;
   	background: #fff;
+     text-decoration: none;
+    padding: 1.5rem 2.5rem;
+    margin-top: 4rem;
+    float: right;
    }
   
   /* Shop page */
