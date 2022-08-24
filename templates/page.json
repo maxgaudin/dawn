@@ -35,6 +35,13 @@
       "settings": {
         "custom_liquid": "<div style=\"background: linear-gradient(180deg, #EA8392 0%, #F68C4B 46.99%, #E27E63 100%);padding: 3em 0;\">\n<h1 style=\"color: #fff;text-align: center;\">Have Questions?<\/h1>\n<ul class=\"grid grid grid grid--1-col product-grid grid--2-col-tablet grid--4-col-desktop negative-margin--small\">\n<li class=\"grid__item\" style=\"background: #005348; color: #fff; margin: 2em 3em; padding: 1em 0 1em 2em;\">\n    <p>EMAIL US<\/p>\n    <h2 style=\"color:white;\">hello@souladdict.co<\/h2>\n    <p>We’ll help answer any questions you have<\/p>\n<\/li>\n<li class=\"grid__item\" style=\"background: #FBF6ED; margin: 2em 3em; padding: 1em 0 1em 2em;\">\n    <p style=\"color: #DD5A37;\">LEARN MORE<\/p>\n    <h2>Read The Dosing Guide →<\/h2>\n    <p style=\"color: #DD5A37;\">We’ll help answer any questions you have<\/p>\n<\/li>\n<\/ul>\n<\/div>"
       }
+    },
+    "1661380846ac8b7f4c": {
+      "type": "section-custom-html",
+      "settings": {
+        "title": "",
+        "custom_html": "<div style=\"text-align: center;\">\n<h2>WTF is Connelly Springs, NC again? Fair Question.<\/h2>\n<p>Our farm is located in the foothills of the Blue Ridge Mountains, about a little less than an hour drive away from Asheville, North Carolina. Our founder, Laura, grew up about 10 minutes away and we grow on an adjacent farm that’s been in her family since the 1950s, so it’s a family-owned business as well as being majority womxn-owned.<\/p>\n\n<h2 style=\"color:\">Soul Addict is about empowerment through tiny steps, education and access. Let's heal with plants and be real humans, together.<\/h2>\n<\/div>"
+      }
     }
   },
   "order": [
@@ -43,6 +50,7 @@
     "166077216000ae4e9e",
     "main",
     "1661379351a05ceb8d",
-    "163888504175e1d571"
+    "163888504175e1d571",
+    "1661380846ac8b7f4c"
   ]
 }
