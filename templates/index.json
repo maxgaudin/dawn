@@ -19,7 +19,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop now",
-            "button_link": "shopify:\/\/collections"
+            "button_link": "\/collections\/all"
           }
         }
       },
