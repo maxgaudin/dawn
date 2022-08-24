@@ -2812,11 +2812,10 @@ header {
 }
  
   
-#shopify-section-template--15213255000255__16532941130a62232c  h2 {
+#shopify-section-template--15213255000255__16532941130a62232c  h2, #shopify-section-template--15791568650431__16532941130a62232c h2 {
   color: #001D19; 
 }
- #shopify-section-template--15213255000255__16532941130a62232c 
-  #DD5A37
+ 
 
   
   #shopify-section-template--15213254869183__1638396251f0ee1c29 .head-left, #shopify-section-template--15213254869183__1653292428febe619f .head-left {
@@ -2835,12 +2834,12 @@ header {
     margin-top: 1.3rem;
   }
   
-  #shopify-section-template--15213254869183__1638396251f0ee1c29 .collection, #shopify-section-template--15213254869183__1653292428febe619f .collection, #shopify-section-template--15213255000255__16532941130a62232c .collection {
+  #shopify-section-template--15213254869183__1638396251f0ee1c29 .collection, #shopify-section-template--15213254869183__1653292428febe619f .collection, #shopify-section-template--15213255000255__16532941130a62232c .collection, #shopify-section-template--15791568650431__16532941130a62232c .collection {
   	max-width: 1200px;
     margin: 0 auto;
   }
   
-   #shopify-section-template--15213254869183__1638396251f0ee1c29 p, #shopify-section-template--15213254869183__1653292428febe619f p, #shopify-section-template--15213255000255__16532941130a62232c p {
+   #shopify-section-template--15213254869183__1638396251f0ee1c29 p, #shopify-section-template--15213254869183__1653292428febe619f p, #shopify-section-template--15213255000255__16532941130a62232c p, #shopify-section-template--15791568650431__16532941130a62232c p {
   	margin-top: 0.5rem;
     font-size: 1.3rem;
      color: #001d19;
