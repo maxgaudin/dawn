@@ -3842,3 +3842,8 @@ padding: 0 15px 15px 15px;
   margin-bottom: 0 !important;
   padding: 8rem 16rem 0 16rem;
 }
+
+.article-card {
+  display: flex;
+  flex-direction: row;
+}
