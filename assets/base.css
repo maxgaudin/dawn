@@ -3845,15 +3845,7 @@ padding: 0 15px 15px 15px;
   padding: 8rem 16rem 0 16rem;
 }
 
-/* .article-card-custom {
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-start;
-}
-
-.article-card__info {
-  flex-direction: row !important;
-} */
+/* BLOG ARTICLE PAGE */
 
 .article-template__hero-medium {
   padding-top: 3rem;
@@ -3871,4 +3863,10 @@ mix-blend-mode: normal;
 
 .article-template__hero-container:first-child {
   margin-top: 0 !important;
+}
+
+#shopify-section-template--15213254705343__main header {
+margin-top: -10rem;
+    z-index: 500;
+    position: relative;
 }
