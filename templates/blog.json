@@ -1,15 +1,5 @@
 {
   "sections": {
-    "main": {
-      "type": "main-blog",
-      "settings": {
-        "layout": "collage",
-        "show_image": true,
-        "image_height": "medium",
-        "show_date": true,
-        "show_author": false
-      }
-    },
     "1661388671853fe9e7": {
       "type": "image-banner",
       "blocks": {
@@ -43,6 +33,16 @@
         "show_text_below": true
       }
     },
+    "main": {
+      "type": "main-blog",
+      "settings": {
+        "layout": "collage",
+        "show_image": true,
+        "image_height": "medium",
+        "show_date": true,
+        "show_author": false
+      }
+    },
     "1661388552a66693af": {
       "type": "custom-liquid",
       "settings": {
@@ -51,8 +51,8 @@
     }
   },
   "order": [
-    "main",
     "1661388671853fe9e7",
+    "main",
     "1661388552a66693af"
   ]
 }
