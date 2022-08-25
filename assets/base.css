@@ -3866,7 +3866,13 @@ mix-blend-mode: normal;
 }
 
 #shopify-section-template--15213254705343__main header {
-margin-top: -10rem;
+margin-top: -30rem;
     z-index: 500;
     position: relative;
+    text-align: center;
+    color: white;
+}
+
+#shopify-section-template--15213254705343__main h1 {
+  color: #fff;
 }
