@@ -3856,13 +3856,18 @@ padding: 0 15px 15px 15px;
 } */
 
 .article-template__hero-medium {
+  padding-top: 3rem;
 background: linear-gradient(180deg, #EA8392 0%, #F68C4B 46.99%, #E27E63 100%);
 mix-blend-mode: normal;
 }
 
 .article-template__hero-medium img {
   width: 600px !important;
-  border-radius: 250px 250px 0 0;
+  border-radius: 300px 300px 0 0;
   margin: 0 auto;
   position: relative !important;
+}
+
+.article-template__hero-container:first-child {
+  margin-top: 0 !important;
 }
