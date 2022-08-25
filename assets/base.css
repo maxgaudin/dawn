@@ -3843,7 +3843,7 @@ padding: 0 15px 15px 15px;
   padding: 8rem 16rem 0 16rem;
 }
 
-.article-card-custom {
+/* .article-card-custom {
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
@@ -3851,4 +3851,4 @@ padding: 0 15px 15px 15px;
 
 .article-card__info {
   flex-direction: row !important;
-}
+} */
