@@ -18,11 +18,18 @@
         "title": "",
         "custom_html": "<div style=\"background: #FBF6ED; padding: 5rem;\">\n    <div style=\"max-width: 900px; margin: auto;\">\n    <p>CBD and cannabis even still today, is marked with negative connotations, leftover from the detrimental War on Drugs that tore a part black and brown communities since the US declared plants as drugs. A clear picture of systematic racism in action. To be in the CBD industry, means we have an active role within the Cannabis industry as a whole in how we finally, collectively ban together to fight for equality and equity for all marginalized communities moving forward.  As a small business, we give back when and where we can afford to (real talk), including providing education to our team and committing to active allyship through anti-racism work. Check out this page for more ways we give back.<\/p>\n\n        <p>We believe in access to education and quality products and above all- ensuring equity in cannabis is top priority, no one should be in jail because of weed.<\/p>\n\n        <h2 style=\"text-align: center; color: #00A17F; margin-bottom: 0; padding-top:2rem; padding-bottom:5rem; font-size: 3rem\">Our line is a lover and fighter for Mama Earth.<\/h2>\n\n\n    <p>We’re an indie brand and small farm, first. Since our beginning our line has been crafted as-sustainably-as-we-possibly can through the love we plant into our hemp products.<\/p>\n\n        <p>This doesn’t mean we always get it right, but Mama Earth is our first priority when formulating our line.<\/p>\n        \n        <p>Smaller independent brands are often priced-out of ordering unit-minimums for most eco-conscious packaging producers. Yes, it sucks and so many indie brands are trying to change this. Until there’s a more equal playing field for the smaller eco-conscious brands, we try to be as crafty as possible to offset any packaging that’s not 100% aligned with our ethos and mission.<\/p>\n        \n        <p>Each and every product you order from us has been thoughtfully curated and crafted to be the most eco-friendly and recyclable we possibly can make it.<\/p>\n\n    <\/div>\n<\/div>"
       }
+    },
+    "1661387914d1cdd4b3": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div style=\"background: linear-gradient(180deg, #EA8392 0%, #F68C4B 46.99%, #E27E63 100%);padding: 3em 0;\">\n<h1 style=\"color: #fff;text-align: center;\">Have Questions?<\/h1>\n<ul class=\"grid grid grid grid--1-col product-grid grid--2-col-tablet grid--4-col-desktop negative-margin--small\">\n<li class=\"grid__item\" style=\"background: #005348; color: #fff; margin: 2em 3em; padding: 1em 0 1em 2em;\">\n    <p>EMAIL US<\/p>\n    <h2 style=\"color:white;\">hello@souladdict.co<\/h2>\n    <p>We’ll help answer any questions you have<\/p>\n<\/li>\n<li class=\"grid__item\" style=\"background: #FBF6ED; margin: 2em 3em; padding: 1em 0 1em 2em;\">\n    <p style=\"color: #DD5A37;\">LEARN MORE<\/p>\n    <h2>Read The Dosing Guide →<\/h2>\n    <p style=\"color: #DD5A37;\">We’ll help answer any questions you have<\/p>\n<\/li>\n<\/ul>\n<\/div>"
+      }
     }
   },
   "order": [
     "16613803229318449e",
     "main",
-    "1661380846ac8b7f4c"
+    "1661380846ac8b7f4c",
+    "1661387914d1cdd4b3"
   ]
 }
