@@ -485,7 +485,9 @@ blockquote {
     padding-top: 7rem;
 }
 
-
+#shopify-section-template--15213254967487__main .title--primary {
+  display: none;
+}
 
 .caption-with-letter-spacing {
   font-size: 1rem;
