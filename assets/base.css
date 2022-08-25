@@ -469,6 +469,11 @@ blockquote {
 
 #Banner-template--15213254967487__1661388671853fe9e7 .banner__box {
     background: none;
+  text-align: left;
+}
+
+#Banner-template--15213254967487__1661388671853fe9e7 .banner__content {
+  justify-content: left;
 }
 
 #Banner-template--15213254967487__1661388671853fe9e7 h2, #Banner-template--15213254967487__1661388671853fe9e7 .banner__text {
