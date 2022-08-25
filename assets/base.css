@@ -3859,6 +3859,7 @@ mix-blend-mode: normal;
   border-radius: 300px 300px 0 0;
   margin: 0 auto;
   position: relative !important;
+  opacity: 0.3;
 }
 
 .article-template__hero-container:first-child {
@@ -3879,9 +3880,6 @@ margin-top: -30rem;
     position: relative;
 }
 
-#shopify-section-template--15213254705343__main {
-  
-}
 
 #shopify-section-template--15213254705343__main article {
   background: #fbf6ed;
