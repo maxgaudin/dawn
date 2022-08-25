@@ -3843,7 +3843,7 @@ padding: 0 15px 15px 15px;
   padding: 8rem 16rem 0 16rem;
 }
 
-.article-card {
+.article-card-custom {
   display: flex;
   flex-direction: row;
 }
