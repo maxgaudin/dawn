@@ -3846,4 +3846,5 @@ padding: 0 15px 15px 15px;
 .article-card-custom {
   display: flex;
   flex-direction: row;
+  justify-content: flex-start;
 }
