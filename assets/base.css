@@ -3851,7 +3851,7 @@ padding: 0 15px 15px 15px;
   padding-top: 3rem;
 background: linear-gradient(180deg, #EA8392 0%, #F68C4B 46.99%, #E27E63 100%);
 mix-blend-mode: normal;
-  opacity: 0.8;
+  opacity: 1;
 }
 
 .article-template__hero-medium img {
