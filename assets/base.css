@@ -3861,8 +3861,8 @@ mix-blend-mode: normal;
 }
 
 .article-template__hero-medium img {
-  width: 600px;
+  width: 600px !important;
   border-radius: 250px 250px 0 0;
   margin: 0 auto;
-  position: relative;
+  position: relative !important;
 }
