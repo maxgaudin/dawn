@@ -16,7 +16,6 @@
 <article class="article-card{% if article.image == blank or show_image == false %} article-card--no-image{% endif %}" aria-labelledby="Article-{{ article.id }}">
   <a href="{{ article.url }}" class="article-content motion-reduce">
     {%- if show_image == true and article.image -%}
-    <div class="article-card-custom">
       <div class="article-card__image-wrapper">
         <div class="article-card__image media {% if image_height %}article-card__image--{{ image_height }}{% else %}media--landscape{% endif %}" {% if section.settings.image_height == 'adapt' %} style="padding-bottom: {{ 1 | divided_by: article.image.aspect_ratio | times: 100 }}%;"{% endif %}>
           <img
@@ -68,7 +67,5 @@
         {%- endif -%}
       </div>
     </div>
-</div>
-
   </a>
 </article>
