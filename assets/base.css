@@ -465,6 +465,16 @@ blockquote {
   }
 }
 
+/* Daily Dose page */
+
+#Banner-template--15213254967487__1661388671853fe9e7 .banner__box {
+    background: none;
+}
+
+#Banner-template--15213254967487__1661388671853fe9e7 h1, #Banner-template--15213254967487__1661388671853fe9e7 .banner__text {
+  color: #fff;
+}
+
 .caption-with-letter-spacing {
   font-size: 1rem;
   letter-spacing: 0.13rem;
