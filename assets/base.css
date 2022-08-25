@@ -234,7 +234,7 @@ html.no-js .no-js-hidden {
   }
 
   .spaced-section:last-child {
-    margin-bottom: calc(5rem + var(--page-width-margin));
+    margin-bottom: 0;
   }
 }
 
