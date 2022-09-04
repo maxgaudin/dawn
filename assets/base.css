@@ -2450,8 +2450,10 @@ footer .gradient {
     text-align: center;
 }
 
-@media screen and (min-width: 750px) .grid--2-col-tablet .multicolumn-list__item {
+@media screen and (min-width: 750px) {
+     .grid--2-col-tablet .multicolumn-list__item {
     max-width: 25%;
+}
 }
 
 
@@ -2488,8 +2490,10 @@ footer .gradient {
     opacity: 1;
 }
 
-@media screen and (min-width: 750px) .spaced-section {
+@media screen and (min-width: 750px) {
+     .spaced-section {
     margin-top: 0.4em;
+}
 }
 
 
@@ -3047,6 +3051,12 @@ span .price {
 .add-cart a {
     color: #fff;
     text-decoration: none;
+}
+
+@media screen and (max-width: 749px) {
+    .add-cart {
+        padding: 0.8em 1.8em
+    }
 }
 
 .learn {
