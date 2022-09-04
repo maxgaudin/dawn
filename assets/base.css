@@ -2836,7 +2836,7 @@ mix-blend-mode: normal;
   }
 
   @media screen and (max-width: 767px) {
-    .head-left a {
+    .head-right a {
         display: none;
     }
   }
