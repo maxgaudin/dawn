@@ -2834,6 +2834,13 @@ mix-blend-mode: normal;
   .head-shop .head-left p {
   	color: #fff;
   }
+
+  @media screen and (max-width: 767px) {
+    .head-left p {
+        display: none;
+    }
+  }
+
   .head-left {
   	color: #fff;
     float: left;
@@ -3388,6 +3395,7 @@ background: linear-gradient(180deg, #005348 0%, #00634E 50.12%, #001D19 100%) !i
 .footer-dosed, .extra-text {
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .footer-top-left, .footer-top-right {
