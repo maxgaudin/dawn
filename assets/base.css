@@ -2984,6 +2984,7 @@ footer .gradient {
 #shopify-section-template--15213255000255__1653295264df87fc55 {
     /* gradient-blue */
     background: linear-gradient(1deg, #EFD5C7 0%, #A0A9F9 35.76%, #7AB0EF 67.01%, #7BD0D8 100%);
+    padding-top: 2rem;
 }
 
 
@@ -3389,6 +3390,12 @@ span .price {
     padding-left: 200px;
     padding-top: 3rem;
     padding-bottom: 3rem;
+}
+
+@media screen and (max-width: 749px) {
+    .green-block {
+        padding-left: 2em;
+    }
 }
 
 .collection .grid__item {
@@ -3844,7 +3851,11 @@ header {
     }
     .how-to div:last-child {
         padding-top: 0;
-        padding-bottom: 2rem;
+        padding-bottom: 5rem;
+    }
+
+    .how-to h2 { 
+        padding-bottom: 0;
     }
 
     .spaced-section {
@@ -3954,6 +3965,9 @@ header {
     .price-box {
         margin-bottom: 0 !important;
     } 
+    .product__info-container>*+* {
+        margin-bottom: 0 !important;
+    }
 }
 
 @media screen and (max-width: 749px) {
@@ -4046,4 +4060,39 @@ header {
 
 .article-template__content {
     margin-top: 23.5rem !important;
+}
+
+/** Have questions block **/
+
+.help-one {
+    background: #005348; 
+    color: #fff; 
+}
+
+.help-two {
+    background: #FBF6ED; 
+}
+
+.help-one, .help-two {
+    padding: 1em 0 1em 2em;
+    margin: 2em 3em; 
+}
+
+@media screen and (max-width: 749px) {
+    .help-one, .help-two {
+        padding: 1em 0 1em 2em;
+        margin: 2em 0em; 
+    }
+}
+
+@media screen and (max-width: 749px) {
+.collection .grid--2-col .grid__item {
+    width: 100%;
+}
+}
+
+@media screen and (max-width: 749px) {
+#shopify-section-template--15213255000255__1660750395dd8c9fe4 {
+    display: none;
+}
 }
