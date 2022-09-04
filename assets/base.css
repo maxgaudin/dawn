@@ -2839,6 +2839,9 @@ mix-blend-mode: normal;
     .head-right a {
         display: none;
     }
+    .head-shop {
+        height: 140px !important;
+    }
   }
 
   .head-left {
