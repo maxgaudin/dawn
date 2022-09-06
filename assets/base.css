@@ -4054,11 +4054,25 @@ header {
     margin-bottom: 0 !important;
     padding: 8rem 16rem 0 16rem;
 }
+@media screen and (max-width: 749px) {
+    #shopify-section-template--15213254672575__166077216000ae4e9e {
+        padding: 3rem;
+    }
+    #shopify-section-template--15213254672575__166077216000ae4e9e svg {
+        width: 300px;
+    }
+}
 
 .about-container {
     display: flex;
     flex-wrap: wrap;
     max-width: 1600px;
+  }
+
+  @media screen and (max-width: 749px) {
+    .about-container {
+        flex-direction: column-reverse;
+    }
   }
   
   .about-child {
