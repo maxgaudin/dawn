@@ -2602,7 +2602,7 @@ footer .gradient {
     text-align: center;
 }
 
-#shopify-section-template--15213254869183__1636507255b8e6b169 .button {
+#shopify-section-template--15213254869183__1636507255b8e6b169 .button, #shopify-section-template--15815216824511__16625068007ed14b87 .button {
     background: #a43c23;
     font-family: 'Americana';
     box-shadow: none;
@@ -2612,7 +2612,7 @@ footer .gradient {
     padding-top: 3.4rem;
 }
 
-#shopify-section-template--15213254869183__1636507255b8e6b169 .rich-text {
+#shopify-section-template--15213254869183__1636507255b8e6b169 .rich-text, #shopify-section-template--15815216824511__16625068007ed14b87 .rich-text {
     background: #a43c23 !important;
     margin-top: 0 !important;
     margin-bottom: 0 !important;
@@ -4223,6 +4223,7 @@ font-size: 2.2rem;
 .dose-guide {
     max-width: 900px;
     margin: 0 auto;
+    padding: 2rem 3rem;
 }
 
 #shopify-section-template--15815216824511__16625013412aa260ec {
