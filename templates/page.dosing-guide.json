@@ -35,6 +35,7 @@
     },
     "16625003663670ae7b": {
       "type": "page",
+      "disabled": true,
       "settings": {
         "page": "the-dosing-guide"
       }
