@@ -4224,3 +4224,11 @@ font-size: 2.2rem;
     max-width: 900px;
     margin: 0 auto;
 }
+
+.flower-guide {
+    background: linear-gradient(180deg, #EA8392 0%, #F68C4B 46.99%, #E27E63 100%);
+}
+
+.flower-guide, .flower-guide h1, .flower-guide h2, .flower-guide h3, .flower-guide h4, .flower-guide p {
+    color: #fff;
+}
