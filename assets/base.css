@@ -4075,7 +4075,12 @@ header {
     .about-container {
         flex-direction: column-reverse;
     }
+    #shopify-section-template--15213254672575__16613803229318449e .about-container {
+        flex-direction: column;
+    }
   }
+
+
   
   .about-child {
     width: 100%;
@@ -4085,7 +4090,7 @@ header {
   }
   
   .about-child img {
-    max-width: 800px;
+    max-width: 100%;
     height: 100%;
   }
 
