@@ -4223,7 +4223,7 @@ font-size: 2.2rem;
 /*** DOSING GUIDE PAGE ***/
 
 .dose-guide {
-    max-width: 900px;
+    max-width: 800px;
     margin: 0 auto;
     padding: 2rem 3rem;
 }
