@@ -4071,9 +4071,17 @@ header {
     max-width: 1600px;
   }
 
+.about-container svg {
+    width: 326;
+    height: 6;
+}
+
   @media screen and (max-width: 749px) {
     .about-container {
         flex-direction: column-reverse;
+    }
+    .about-child img {
+        margin-bottom: -2em;
     }
     #shopify-section-template--15213254672575__16613803229318449e .about-container {
         flex-direction: column;
