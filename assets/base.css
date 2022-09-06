@@ -4083,7 +4083,7 @@ header {
     .about-child img {
         margin-bottom: -2em;
     }
-    #shopify-section-template--15213254672575__16613803229318449e .about-container {
+    #shopify-section-template--15213254672575__16613803229318449e .about-container, #shopify-section-template--15792022454463__16613803229318449e .about-container {
         flex-direction: column;
     }
   }
