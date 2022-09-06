@@ -972,14 +972,14 @@ summary::-webkit-details-marker {
     }
 }
 
-/* .grid__item {
+.grid__item {
     padding-left: 0.5rem;
     padding-bottom: 0.5rem;
     width: calc(25% - 0.5rem * 3 / 4);
     max-width: 50%;
     flex-grow: 1;
     flex-shrink: 0;
-} */
+}
 
 @media screen and (min-width: 750px) {
     .grid__item {
@@ -3330,7 +3330,7 @@ span .price {
         padding-bottom: 30px;
     }
     #shopify-section-template--15272828403903__1639073918ac05dd6a .btn {
-        padding: 1.5rem 3rem;
+        padding: 1rem 3rem;
         display: block;
         width: 172px;
     }
