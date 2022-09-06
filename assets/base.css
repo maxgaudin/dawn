@@ -4017,11 +4017,14 @@ header {
 /**** About page ****/
 
 #shopify-section-template--15213254672575__1660768849486f1ebd {
-    background-image: url("../assets/about-page-leaves.svg");
+    background: url("../assets/about-page-leaves.svg");
     background-size: cover;
     margin-bottom: 0 !important;
     padding: 8rem 26rem;
 }
+
+
+linear-gradient(180deg, #EA8392 0%, #F68C4B 46.99%, #E27E63 100%);
 
 #shopify-section-template--15213254672575__1661379351a05ceb8d {
     background: linear-gradient(180deg, #EFD5C7 0%, #A0A9F9 35.76%, #7AB0EF 67.01%, #7BD0D8 100%);
@@ -4040,6 +4043,7 @@ header {
 @media screen and (max-width: 749px) {
     #shopify-section-template--15213254672575__1660768849486f1ebd {
         padding: 3rem;
+        background: linear-gradient(180deg, #EA8392 0%, #F68C4B 46.99%, #E27E63 100%);
     }
 }
 
