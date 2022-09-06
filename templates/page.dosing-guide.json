@@ -49,7 +49,7 @@
     "1662507969bc8eb472": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"dose-guide\">\n    <h1 style=\"text-align: center;color: #fff;\">I want to learn more about...<\/h1>\n\n    <div style=\"display:flex; flex-wrap: flex;\">\n        <div style=\"height:66px;\"><a href=\"#general\" class=\"white-btn\">CBD in General ↓<\/a><\/div>\n        <div style=\"height:66px;\"><a href=\"#flowers\" class=\"white-btn\">SA CBD Flowers ↓<\/a><\/div>\n        <div style=\"height:66px;\"><a href=\"#dosing\" class=\"white-btn\">The SA Dosing & Product Guide ↓<\/a><\/div>\n    <\/div>\n<\/div>"
+        "custom_liquid": "<div class=\"dose-guide\">\n    <h1 style=\"text-align: center;color: #fff;\">I want to learn more about...<\/h1>\n\n    <div style=\"display:flex; flex-wrap: wrap;\">\n        <div style=\"height:66px;\"><a href=\"#general\" class=\"white-btn\">CBD in General ↓<\/a><\/div>\n        <div style=\"height:66px;\"><a href=\"#flowers\" class=\"white-btn\">SA CBD Flowers ↓<\/a><\/div>\n        <div style=\"height:66px;\"><a href=\"#dosing\" class=\"white-btn\">The SA Dosing & Product Guide ↓<\/a><\/div>\n    <\/div>\n<\/div>"
       }
     },
     "1662501270eeba2556": {
