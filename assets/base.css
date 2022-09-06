@@ -4086,6 +4086,7 @@ header {
   
   .about-child img {
     max-width: 800px;
+    height: 100%;
   }
 
 /* BLOG ARTICLE PAGE */
