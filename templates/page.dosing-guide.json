@@ -13,7 +13,7 @@
         "16624987623626f96f-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "Read below to get caught up on the magic of CBD.  Tips and advice on how to get the most magic out of our CBD"
           }
         }
       },
@@ -30,7 +30,7 @@
         "image_overlay_opacity": 0,
         "color_scheme": "accent-1",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "16625003663670ae7b": {
