@@ -970,16 +970,16 @@ summary::-webkit-details-marker {
     .grid {
         margin-left: -1rem;
     }
+    .grid__item {
+        padding-left: 0.5rem;
+        padding-bottom: 0.5rem;
+        width: calc(25% - 0.5rem * 3 / 4);
+        max-width: 50%;
+        flex-grow: 1;
+        flex-shrink: 0;
+    }
 }
 
-.grid__item {
-    padding-left: 0.5rem;
-    padding-bottom: 0.5rem;
-    width: calc(25% - 0.5rem * 3 / 4);
-    max-width: 50%;
-    flex-grow: 1;
-    flex-shrink: 0;
-}
 
 @media screen and (min-width: 750px) {
     .grid__item {
