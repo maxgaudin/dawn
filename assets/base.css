@@ -2497,11 +2497,11 @@ footer .gradient {
     opacity: 1;
 }
 
-/* @media screen and (min-width: 750px) {
+@media screen and (min-width: 750px) {
      .spaced-section {
     margin-top: 0.4em;
 }
-} */
+}
 
 
 
@@ -3322,6 +3322,10 @@ span .price {
         margin-top: 0 !important;
         margin-bottom: 0 !important;
     }
+}
+
+#shopify-section-template--15272828403903__1639073918ac05dd6a .spaced-section {
+    margin-top: 0 !important;
 }
 
 @media screen and (max-width: 750px) {
