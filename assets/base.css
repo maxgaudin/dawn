@@ -4251,3 +4251,19 @@ font-size: 2.2rem;
     max-width: 265px;
     display: block;
 }
+
+.white-btn {
+    background: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 30px;
+    box-shadow: none;
+    font-family: americana;
+    font-size: 1.2em;
+    opacity: 1;
+    padding: 18px 42px;
+    text-decoration: none;
+    /* margin: 4rem 0;
+    max-width: 265px;
+    display: block; */
+}
