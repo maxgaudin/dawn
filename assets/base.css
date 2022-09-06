@@ -4220,6 +4220,8 @@ font-size: 2.2rem;
 }
 }
 
+/*** DOSING GUIDE PAGE ***/
+
 .dose-guide {
     max-width: 900px;
     margin: 0 auto;
@@ -4232,4 +4234,16 @@ font-size: 2.2rem;
 
 .flower-guide, .flower-guide h1, .flower-guide h2, .flower-guide h3, .flower-guide h4, .flower-guide p {
     color: #fff;
+}
+
+.orange-btn {
+    background: 0 0;
+    color: #dd5a37;
+    border: 1px solid #dd5a37;
+    border-radius: 30px;
+    box-shadow: none;
+    font-family: americana;
+    font-size: 1.2em;
+    opacity: 1;
+    padding: 18px 42px;
 }
