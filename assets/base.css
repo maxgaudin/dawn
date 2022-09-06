@@ -2411,6 +2411,13 @@ footer .gradient {
 
 }
 
+@media screen and (min-width: 749px) {
+ 
+    .spaced-section:last-child {
+    margin-bottom: 5rem;
+  }
+}
+
 #shopify-section-template--15213286490303__1635814473566c087b .image-with-text .gradient {
     background: none;
 }
