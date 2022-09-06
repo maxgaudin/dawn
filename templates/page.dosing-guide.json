@@ -29,7 +29,7 @@
         "show_text_box": false,
         "image_overlay_opacity": 0,
         "color_scheme": "accent-1",
-        "stack_images_on_mobile": false,
+        "stack_images_on_mobile": true,
         "show_text_below": true
       }
     },
