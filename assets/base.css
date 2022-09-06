@@ -2408,6 +2408,7 @@ footer .gradient {
     margin-top: -20px;
     border-top: none !important;
     background: none !important;
+
 }
 
 @media screen and (min-width: 749px) {
@@ -3405,7 +3406,7 @@ span .price {
 .green-block {
     padding-left: 200px;
     padding-top: 3rem;
-    padding-bottom: 3rem;
+    padding-bottom: 4rem;
 }
 
 @media screen and (max-width: 749px) {
@@ -4099,7 +4100,7 @@ header {
         padding: 1em 0 1em 2em;
         margin: 2em 0em; 
     }
-   .dosing-svg {
+    .dosing-svg {
         display: none;
     }
 }
