@@ -538,6 +538,9 @@ table:not([class]) th {
     .small-hide {
         display: none !important;
     }
+    #shopify-section-template--15213254967487__1661388552a66693af svg {
+        margin-bottom: -1.2rem;
+    }
 }
 
 @media screen and (min-width: 750px) and (max-width: 989px) {
