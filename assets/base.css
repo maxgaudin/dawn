@@ -4259,17 +4259,16 @@ font-size: 2.2rem;
     border-radius: 30px;
     box-shadow: none;
     font-family: americana;
-    font-size: 1.2em;
+    font-size: 0.8em;
     opacity: 1;
-    padding: 18px 42px;
+    padding: 19px 20px;
     text-decoration: none;
-    /* margin: 4rem 0;
-    max-width: 265px;
-    display: block; */
+    margin: 0 0.8em;
+   
 }
 
 #shopify-section-template--15815216824511__1662507969bc8eb472 {
 background: linear-gradient(180deg,#EFD5C7 0%,#A0A9F9 35.76%,#7AB0EF 67.01%,#7BD0D8 100%);
     color: #fff;
-    padding-top: 2em;
+    padding-bottom: 3em;
 }
