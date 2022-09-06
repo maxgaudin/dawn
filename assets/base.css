@@ -4158,6 +4158,13 @@ font-size: 2.2rem;
     color: white;
 }
 
+@media screen and (max-width: 749px) {
+
+#shopify-section-template--15213254705343__main header {
+    margin-top: -15rem;
+}
+}
+
 #shopify-section-template--15213254705343__main h1 {
     color: #fff;
     z-index: 500;
