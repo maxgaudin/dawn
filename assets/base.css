@@ -3031,7 +3031,7 @@ footer .gradient {
 
 .first .card-wrapper {
 
-    max-width: 20.6em;
+    /* max-width: 20.6em; */
     border-radius: 57px 60px 0 0;
 }
 
@@ -3317,7 +3317,7 @@ span .price {
     text-align: center;
 }
 
-@media screen and (min-width: 750px) {
+@media screen and (max-width: 750px) {
     .image-with-text {
         margin-top: 0 !important;
         margin-bottom: 0 !important;
