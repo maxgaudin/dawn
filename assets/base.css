@@ -4100,7 +4100,7 @@ header {
         margin: 2em 0em; 
     }
    .dosing-svg {
-        margin-top: -20px;
+        dispaly: none;
     }
 }
 
