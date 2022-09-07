@@ -4315,3 +4315,15 @@ background: linear-gradient(180deg,#EFD5C7 5%,#A0A9F9 35.76%,#7AB0EF 67.01%,#7BD
     color: #fff;
     font-size: 2rem;
 }
+
+#shopify-section-template--15213254672575__1661380846ac8b7f4c  {
+    text-align: center;
+}
+
+@media screen and (max-width: 750px) {
+#shopify-section-template--15213254672575__1661380846ac8b7f4c {
+    text-align: left;
+    padding: 1em 2em;
+}
+    
+}
