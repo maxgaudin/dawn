@@ -3594,7 +3594,12 @@ text-decoration: underline;
 .first-footer,
 .second-footer {
     flex-grow: 1;
-    width: 50%;
+}
+
+@media screen and (max-width: 750px) {
+    .first-footer,.second-footer {
+    width: 50%
+    }
 }
 
 .third-footer {
