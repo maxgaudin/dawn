@@ -3580,11 +3580,11 @@ footer,
 
 .first-footer,
 .second-footer {
-    flex-basis: 1;
+    flex-grow: 1;
 }
 
 .third-footer {
-    flex-basis: 2;
+    flex-grow: 2;
 }
 
 .extra-text p {
