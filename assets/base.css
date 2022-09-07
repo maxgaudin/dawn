@@ -3621,6 +3621,10 @@ text-decoration: underline;
     flex-basis: 100%;
     text-align: center;
 }
+.extra-right p {
+    float: none;
+    text-align: center;
+}
 }
 
 .extra-right p {
