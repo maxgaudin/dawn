@@ -4264,11 +4264,19 @@ font-size: 2.2rem;
     padding: 19px 20px;
     text-decoration: none;
     margin: 0 0.8em;
-   
+}
+
+#shopify-section-template--15815216824511__1662501270eeba2556 {
+    padding-top: 6rem !important;
 }
 
 #shopify-section-template--15815216824511__1662507969bc8eb472 {
-background: linear-gradient(180deg,#EFD5C7 0%,#A0A9F9 35.76%,#7AB0EF 67.01%,#7BD0D8 100%);
+background: linear-gradient(180deg,#EFD5C7 5%,#A0A9F9 35.76%,#7AB0EF 67.01%,#7BD0D8 90%);
     color: #fff;
     padding-bottom: 3em;
+}
+
+#Banner-template--15815216824511__16624987624e086f41 .banner__text {
+    color: #fff;
+    font-size: 2rem;
 }
