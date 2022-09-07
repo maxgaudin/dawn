@@ -3578,8 +3578,12 @@ footer,
     font-size: 1.4rem;
 }
 
-.footer h4 {
+.footer h3 {
     color: #fff;
+}
+
+.footer a {
+    transition: all 2s ease;
 }
 
 .footer a:hover {
