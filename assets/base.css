@@ -3581,6 +3581,7 @@ footer,
 .first-footer,
 .second-footer {
     flex-grow: 1;
+    width: 50%;
 }
 
 .third-footer {
