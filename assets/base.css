@@ -3616,21 +3616,26 @@ text-decoration: underline;
     flex-basis: 50%;
 }
 
-@media screen and (max-width: 750px) {
-    .extra-left, .extra-right {
-    flex-basis: 100%;
-    text-align: center;
-}
-.extra-right p {
-    float: none;
-    text-align: center;
-}
-}
-
 .extra-right p {
     float: right;
     text-align: right;
 }
+
+@media screen and (max-width: 750px) {
+
+    .extra-left,
+    .extra-right {
+        flex-basis: 100%;
+        text-align: center;
+    }
+
+    .extra-right p {
+        float: none;
+        text-align: center;
+    }
+}
+
+
 
 .footer-top .white-squiggle {
     padding-top: 1rem;
