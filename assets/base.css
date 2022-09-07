@@ -3613,7 +3613,15 @@ text-decoration: underline;
 
 .extra-left,
 .extra-right {
-    flex-basis: 50%
+    flex-basis: 50%;
+}
+
+@media screen and (max-width: 750px) {
+    .extra-left,
+.extra-right {
+    flex-basis: 1;
+    text-align: center;
+}
 }
 
 .extra-right p {
