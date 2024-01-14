@@ -2957,7 +2957,8 @@ footer .gradient {
 #shopify-section-template--15213254869183__1638396251f0ee1c29 .collection,
 #shopify-section-template--15213254869183__1653292428febe619f .collection,
 #shopify-section-template--15213255000255__16532941130a62232c .collection,
-#shopify-section-template--15791568650431__16532941130a62232c .collection {
+#shopify-section-template--15791568650431__16532941130a62232c .collection,
+#shopify-section-template--15213254869183__custom_liquid_hRCXM3 .collection{
     max-width: 1200px;
     margin: 0 auto;
 }
