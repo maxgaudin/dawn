@@ -14,6 +14,7 @@
     "checkout_logo_image": "shopify:\/\/shop_images\/SA_Brand_Logo_v3-02_17f65bdc-e3b8-44f1-b690-ac8dfd303af6.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "medium",
+    "checkout_body_background_color": "#dc5541",
     "checkout_sidebar_background_color": "#fbf6ed",
     "sections": {
       "announcement-bar": {
