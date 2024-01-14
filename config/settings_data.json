@@ -12,7 +12,8 @@
     "body_scale": 105,
     "favicon": "shopify:\/\/shop_images\/SA_Brand_Logo_v3-01.png",
     "checkout_logo_image": "shopify:\/\/shop_images\/SA_Brand_Logo_v3-01.png",
-    "checkout_logo_position": "center",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "large",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
