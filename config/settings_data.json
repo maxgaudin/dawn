@@ -11,9 +11,9 @@
     "type_body_font": "karla_n4",
     "body_scale": 105,
     "favicon": "shopify:\/\/shop_images\/SA_Brand_Logo_v3-01.png",
-    "checkout_logo_image": "shopify:\/\/shop_images\/SA_Brand_Logo_v3-01.png",
-    "checkout_logo_position": "left",
-    "checkout_logo_size": "large",
+    "checkout_logo_image": "shopify:\/\/shop_images\/SA_Brand_Logo_v3-02_17f65bdc-e3b8-44f1-b690-ac8dfd303af6.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "medium",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
