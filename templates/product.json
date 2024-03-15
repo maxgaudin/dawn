@@ -80,7 +80,7 @@
     "163884218207069564": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"ingredients\">\n    <h1>Inside {{ product.title }}<\/h1>\n    <ul class=\"grid\" style=\"text-align: center;\">\n       \n        <li class=\"grid__item\" >\n            <h2>Organic cold pressed avocado oil + Hemp extract<\/h2>\n            <p>Virgin Organic Avocado Oil is an unrefined oil that carries \n            a dark green color with a characteristic odor and taste. This oil is known to be rich in vitamin E and the essential fatty acid Oleic Acid.<\/p>\n            \n\n\n        <\/li>\n    <\/ul>\n<\/div>"
+        "custom_liquid": "<div class=\"ingredients\">\n    <h1>Inside {{ product.title }}<\/h1>\n    <div class=\"inner\">\n            <h2>Organic cold pressed avocado oil + Hemp extract<\/h2>\n            <p>Virgin Organic Avocado Oil is an unrefined oil that carries \n            a dark green color with a characteristic odor and taste. This oil is known to be rich in vitamin E and the essential fatty acid Oleic Acid.<\/p>\n    <\/div>\n<\/div>"
       }
     },
     "1638755374720bd277": {
