@@ -2690,6 +2690,10 @@ footer .gradient {
     padding: 0 5rem 0 0;
 }
 
+.product h4 {
+  color: #fff !important;
+}
+
 /**** product page buttons ***/
 
 .product .product-form__submit {
