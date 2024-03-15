@@ -3263,6 +3263,12 @@ span .price {
     padding: 1em 2em;
 }
 
+.ingredients .inner {
+  max-width: 5rem;
+  text-align: center;
+  margin: 0 auto;
+}
+
 .ingredients h1 {
     text-align: center;
     color: #fff;
