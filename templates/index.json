@@ -54,14 +54,14 @@
         "163650295081817c82-0": {
           "type": "heading",
           "settings": {
-            "heading": "Take the Quiz below for a curated recommendation"
+            "heading": "Gummies Infused with craft hemp flower rosin"
           }
         },
         "163650295081817c82-2": {
           "type": "button",
           "settings": {
-            "button_label": "I'd like to feel...",
-            "button_link": "shopify:\/\/pages\/quiz"
+            "button_label": "Shop our edibles",
+            "button_link": "shopify:\/\/collections\/gummies"
           }
         }
       },
