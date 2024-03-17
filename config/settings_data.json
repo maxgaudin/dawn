@@ -175,7 +175,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".announcement-bar .h5 {font-family: Karla; padding: 1.4em0; font-weight: 500; font-size: 1.5rem;}"
+      ".announcement-bar .h5 {font-family: Karla; padding: 1.4em 0; font-weight: 500; font-size: 1.5rem;}"
     ]
   }
 }
