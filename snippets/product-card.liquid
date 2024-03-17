@@ -24,7 +24,7 @@
         <span class="visually-hidden">{{ 'accessibility.vendor' | t }}</span>
         <div class="caption-with-letter-spacing light">{{ product_card_product.vendor }}</div>
       {%- endif -%}
-      {{ product.metafields.descriptors.subtitle }}
+      <p>{{ product_card_product.metafields.descriptors.subtitle }}</p>
       {%- if product_card_product.featured_media -%}
         <h3 class="card-information__text h5">
           <a href="{{ product_card_product.url | default: '#' }}" class="full-unstyled-link">
