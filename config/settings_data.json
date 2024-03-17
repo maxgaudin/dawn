@@ -32,6 +32,9 @@
         "block_order": [
           "announcement-bar-0"
         ],
+        "custom_css": [
+          ".h5 {font-family: Karla, sans-serif; font-size: 1.5rem; font-weight: 500; padding: 1.2em 0;}"
+        ],
         "settings": {
         }
       },
