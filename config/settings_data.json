@@ -22,9 +22,8 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Welcome to our store",
+              "text": "Welcome to our new store. If ya need help email hello@souladdict.co  🥳 Free shipping > $75",
               "color_scheme": "background-1",
               "link": ""
             }
