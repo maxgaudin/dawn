@@ -3065,7 +3065,16 @@ span .price {
     background: #005348;
     border: none;
     padding: 0.8em 2.8em;
-  color: #fff;
+    color: #fff;
+    font-family: Karla;
+}
+
+.add-cart-a {
+    background: #005348;
+    border: none;
+    padding: 0.8em 2.8em;
+    color: #fff;
+    font-family: 'Karla';
 }
 
 .add-cart a {
