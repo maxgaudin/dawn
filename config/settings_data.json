@@ -23,7 +23,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Thanks for visiting our brand new store 🎉 Need help? Email hello@souladdict.co. Free shipping > $75",
+              "text": "25% off all orders. Happy 4\/20!  🎉 Need help? Email hello@souladdict.co. Free shipping > $75",
               "color_scheme": "background-1",
               "link": ""
             }
@@ -176,7 +176,7 @@
   "platform_customizations": {
     "custom_css": [
       ".announcement-bar .h5 {font-family: Karla; padding: 1.4em 0; font-weight: 500; font-size: 1.5rem;}",
-      ".station-tabs-tabcontent h2 {color:#fff;}"
+      ".station-tabs-tabcontent h2 {color: #fff;}"
     ]
   }
 }
